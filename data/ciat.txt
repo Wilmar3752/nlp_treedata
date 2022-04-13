@@ -1,0 +1,419 @@
+Editorial
+
+
+
+Colaboración científica en investigación agrícola en Colombia
+Resumen
+Las consideraciones políticas sobre Colombia se encuentran en el centro del interés público global. Los desafíos
+políticos, económicos y sociales que surgen desde la firma de los acuerdos de paz de La Habana nos son menores; en
+el centro de estos desafíos, la agricultura juega un papel crucial en la evolución del país, desde una posición de
+economía de carácter emergente hacia una de carácter consolidado, dentro del club de buenas prácticas de la
+Organización para la Cooperación y el Desarrollo Económicos (OCDE). La investigación y el desarrollo en agricultura
+han probado ser un direccionador económico de este sector, y, en ese sentido, este artículo propone un aporte
+académico basado en un análisis bibliométrico centrado en la identificación de los autores y organizaciones más
+influyentes de esta disciplina, con base en el mapeo de las redes científicas de citación de artículos durante los últimos
+18 años, basado en la información que proporciona la de la base de datos Web of Science (WoS). Las instituciones de
+Educación Superior, especialmente las universidades, están jugando un rol principal dentro del desarrollo de
+investigación, innovación y creación de conocimiento en agricultura, en este documento se resalta la importancia de
+ese rol.
+1. Introducción
+La necesidad de aumentar de forma sostenible la producción agrícola en el ámbito mundial ha fortalecido el enfoque
+colaborativo dentro de los instrumentos basados en políticas para la promoción de la innovación regional y nacional
+en agricultura[1]. Los sistemas de innovación agrícola (SIA) son redes de actores (universidades, centros de
+investigación, entidades territoriales, empresas, ONG) que trabajan de forma colaborativa [2]. Las universidades
+juegan un papel central en la colaboración entre actores en los Sistemas de Innovación (SI) en el ámbito mundial, por
+medio de funciones y roles como la intermediación de conocimiento, soportada en su capital social. La heterogeneidad
+de las redes de colaboración científica es un facilitador de la difusión de la innovación y el impacto de los resultados
+de investigación. En este artículo se analizan las redes de citación de autores y organizaciones en investigación agrícola
+en Colombia, como un aporte académico a la comprensión de la productividad e impacto de autores y organizaciones,
+así como colaboración dentro de esta disciplina. Dentro de los mapas presentados, los nodos representan las unidades
+de análisis (autores y organizaciones) y los arcos o bordes, las relaciones en las que se centra el tipo de análisis,
+específicamente, las relaciones de citación.
+2. Métodos
+Se recopiló la información de citaciones de los artículos publicados entre los años 2000 a 2018, por medio de la opción
+de búsqueda avanzada por país/región, usando los términos CU=(Colombia); y se obtuvo como resultado la
+identificación de 72.604 artículos. Web of Science clasifica los artículos en algunas categorías seleccionadas[3], y se
+refinaron los resultados de investigación por subcategorías relacionadas con el agro, con lo cual se identifican 6408
+documentos. Para relacionar solo artículos de investigación, se aplican filtros tomando en consideración solo artículos
+y revisiones, de lo que se obtienen 6282 estudios. Los resultados son clasificados usando un análisis centrado en países,
+con información de Colombia, y se aplicaron análisis basados en citación y productividad para la evaluación de
+actividades de colaboración científica. El análisis bibliométrico y el mapeo de redes se desarrollan con base en
+información estadística de citaciones de autores y organizaciones del censo de los 6282 artículos. El análisis de la
+citación de autores y organizaciones permite identificar autores influyentes dentro de las redes científicas[4]. El análisis
+de citas comienza con la selección de los “autores”, como unidad de análisis u objeto a estudiar, seguido de la inclusión
+de organizaciones como un complemento a los análisis mencionados. El mapeo de las redes de citación se desarrolló
+con el software VOSviewer, el cual se posiciona como la herramienta líder por número de citaciones en el mapeo y
+visualización científica[5].
+3. Análisis de citación de autores
+En la búsqueda de los autores más influyentes, se presentan y analizan en profundidad los mapas basados en citas de
+los artículos de mayor impacto de la ciencia agrícola en Colombia. Este análisis se caracteriza por su independencia,
+dado que se conoce que WoS considera la información de citas como parte de su proceso de asignación de categorías
+o cuartiles a las revistas indexadas. La figura 1 muestra la red de los 693 autores más citados en investigación agrícola
+dentro de la muestra. Esta información de citación es usada en el análisis de cocitación de autores, para mostrar el
+relacionamiento entre los autores altamente citados. El ranking de los 10 autores más citados se muestra en la tabla 1.
+ISSN impreso: 1657 – 4583, ISSN en línea: 2145 – 8456. CC BY-ND 4.0
+E. Romero-Riaño, A. Pertuz-Comas., “Colaboración científica en investigación agrícola en Colombia,” Rev. UIS Ing., vol. 18, no. 3, pp. 10-14,
+2019. doi: 10.18273/revuin.v18n3-2019022
+
+8
+
+Dentro de la estructura de esta red, resalta la posición central del profesor Rao I., quien, junto con los autores Blair M.
+y Beebe S. conforman el cluster con mayor influencia dentro de la red (color violeta), debido a su productividad
+(cantidad de documentos) e impacto (número de citas).
+
+Figura 1. Mapa de citación de autores en investigación agrícola en Colombia
+La tabla 1 resume los datos del número de citaciones, el país de localización y la filiación institucional de los diez
+principales autores ordenados por el número de citaciones dentro de WoS. De acuerdo con el indicador del número de
+citaciones, el autor más influyente dentro de la red de investigación en agricultura en Colombia es Blair MW. El
+profesor Blair de la Universidad de Tennessee presenta un total de 89 documentos en la muestra, y 132 vínculos con
+otros investigadores de la red (fig. 1).
+Tabla 1. Ranking de autores más citados en investigación agrícola en Colombia
+Autor
+
+
+
+Las filiaciones institucionales más frecuentes dentro del grupo de 10 autores muestran al Centro Internacional de
+Agricultura Tropical (CIAT) y al Science for humanity’s greatest challenges (CGIAR) como las organizaciones con
+mayor influencia dentro de esta red de investigación. Dentro de las universidades colombianas, resaltan la Universidad
+Nacional de Colombia y la Universidad de Antioquia como las organizaciones con mayor productividad, impacto y
+nivel de capital social representado en número de vínculos dentro de la muestra.
+
+Análisis de citación de organizaciones
+
+Figura 2. Mapa de citación de organizaciones en investigación agrícola en Colombia.
+La figura 2 muestra la red de citación de organizaciones en investigación agrícola en Colombia. Esta visualización de
+densidad muestra en rojo los ítems o nodos con mayor número de citaciones. La Universidad Nacional de Colombia
+(UNAL) es la organización con mayor productividad dentro de la red, con un total de 1560 artículos, seguida por el
+CIAT, con 804 documentos. La posición central de la UNAL en la red de citación se fundamenta en el número de
+vínculos con otros nodos (372), así como en el indicador de fortaleza dentro de la red (3520). La posición y los vínculos
+que representan el capital social de la UNAL muestran el carácter influyente de esta organización en la investigación
+agrícola.
+Sin embargo, como se observa en la figura 2, el nodo con mayor intensidad del número de citaciones es el Centro de
+Investigación en Agricultura Tropical (CIAT), con un total de 21.277 citaciones, que contrastan con las 12.273 de la
+UNAL. El CIAT es un centro de investigación que forma parte del Sistema CGIAR, que es la red mundial más grande
+de innovación agrícola. El CIAT es una organización que realiza investigación colaborativa para mejorar la
+productividad agrícola y el manejo de los recursos naturales en países en vía de desarrollo. Esta fortaleza en el número
+de citaciones del CIAT está sustentada en proporción al capital social de sus investigadores, cuyos vínculos de sus
+redes individuales presentan mayor heterogeneidad (medida en el número de autores de diferentes países en su red).
+Esta diversidad se considera una fuente potencial de impacto dentro de las redes sociales de investigadores.
+La figura 3 muestra la centralidad y vínculos de la universidad del ámbito regional con mayor número de citaciones
+dentro de la investigación agrícola en Colombia, la Universidad de Antioquia.
+
+La Universidad de Antioquia presenta alta productividad, representada en un total de 782 artículos e impacto con un
+total de 902 citaciones. Resalta su posición dentro de la red, por la cercanía con la UNAL y sus vínculos con
+universidades de su territorio (Universidad de Medellín, EAFIT y Universidad Nacional sede Medellín) junto a otras
+universidades regionales de carácter público, la Universidad del Valle y la Universidad Industrial de Santander.
+5. Discusión y conclusiones
+El presente artículo analiza las redes de citación de autores y organizaciones en investigación agrícola en Colombia,
+como un aporte académico a la comprensión de la productividad e impacto de la producción científica dentro del área
+agrícola. Se identifican bajos niveles de heterogeneidad dentro de la red de citación de organizaciones en investigación
+Agrícola en Colombia. En el ámbito nacional, el CIAT y la UNAL son las organizaciones con mayor influencia. A
+nivel regional, la Universidad de Antioquía, la Universidad del Valle y la Universidad Industrial de Santander muestran
+cercanía con la UNAL. Estas cuatro instituciones conforman el grupo de las universidades oficiales con mayor
+productividad científica e impacto en investigación. Resalta la baja diversidad de las redes de organizaciones, donde
+el 81 % de los nodos de la red son universidades y el 9 % son centros de investigación en el agro. De los grupos de
+interés típicos de los SIA, no tienen participación significativa en la red las empresas, entidades territoriales y
+agremiaciones de productores.
+Los autores más influyentes dentro de la red de investigación científica de la muestra de artículos, con filiación
+institucional a universidades son Ceballos (UNAL) y Torres-Palma (UDEA). Estos autores tienen el potencial de
+desplegar un rol mediador entre las instituciones y autores regionales, con las redes mundiales de investigación
+agrícola, así como de generar lazos con otros grupos de interés, tales como empresas y organizaciones de productores.
+
+
+Colaboración científica en investigación agropecuaria en Colombia
+Resumen
+Las consideraciones políticas sobre Colombia están en el centro del interés público global. Lo político, económico y social
+los desafíos que surgen desde la firma de los acuerdos de paz en La Habana son menores; en el centro de estos desafíos,
+la agricultura juega un papel crucial en la evolución del país, desde una posición económica de carácter emergente hacia
+uno consolidado, dentro del club de buenas prácticas de la Organización para la Cooperación y el Desarrollo Económico
+(OCDE). La investigación y desarrollo en agricultura ha demostrado ser un referente económico en este sector, y en este sentido,
+este artículo propone un aporte académico basado en un análisis bibliométrico enfocado en la identificación de los
+autores y organizaciones más influyentes de esta disciplina, en lo que se refiere al mapeo de la citación de artículos científicos
+redes durante los últimos 18 años, con base en la información proporcionada por la base de datos de Web Of Science, WoS. Más alto
+Las instituciones educativas, especialmente las universidades, están desempeñando un papel de liderazgo en el desarrollo de la investigación, la innovación
+y la creación de conocimientos en la agricultura. Este documento destaca la importancia de ese papel.
+1. Introducción
+La necesidad de aumentar de forma sostenible la producción agrícola en todo el mundo ha fortalecido el enfoque colaborativo dentro
+instrumentos basados ​​en políticas para la promoción de la innovación regional y nacional en la agricultura [1]. el agrícola
+Los sistemas de innovación, SIA, son redes de actores (universidades, centros de investigación, entidades territoriales, empresas, ONG)
+que trabajan en colaboración [2]. Las universidades juegan un papel central en la colaboración entre los actores de la Innovación
+Sistemas, SI, a nivel mundial, a través de funciones y roles como la intermediación del conocimiento, apoyados en su capital social.
+La heterogeneidad de las redes de colaboración científica es un facilitador de la difusión de la innovación y del impacto de
+Resultados de la investigacion. En este artículo analizamos las redes de citas de autores y organizaciones en investigación agropecuaria.
+en Colombia como un aporte académico a la comprensión de la productividad e impacto de autores y
+organizaciones así como una colaboración en esta disciplina. En los mapas presentados, los nodos representan las unidades de
+análisis (autores y organizaciones) y los arcos o aristas, las relaciones en las que se enfoca el tipo de análisis,
+en concreto, las relaciones de citación.
+2. Métodos
+La información referente a las citas de los artículos publicados desde 2000 hasta 2018 fue recopilada a través del avanzado
+opción de búsqueda por País/Región, utilizando los términos: CU = (Colombia), obteniendo como resultado la identificación de
+72.604 artículos. Web of Science clasifica los artículos en categorías seleccionadas [3], y los resultados de la investigación fueron
+refinado por subcategorías relacionadas con la agricultura, que identificó 6.408 documentos. Para relacionar solo artículos de investigación,
+Se aplican filtros considerando solo artículos y reseñas, reuniendo 6.282 estudios. Los resultados se clasifican en un país.
+enfoque con información de Colombia, y se aplican análisis de atención y productividad para la evaluación de
+actividades de colaboración científica. El análisis bibliométrico y el mapa de red se basan en información estadística
+de citas de autores y organizaciones de los 6.282 artículos. El análisis de las citas de autores y
+organizaciones permite identificar autores influyentes dentro de las redes científicas [4]. El análisis de las citas.
+comienza con la selección de los "autores", como unidad de análisis u objeto de estudio y sigue con la inclusión
+de las organizaciones como complemento de los análisis pertinentes. El mapa de las redes de citas se puede ver con el
+El software VOSviewer, que se posiciona como la herramienta líder en número de citas, en el mapa y científico
+publicación [5].
+3. Análisis de las citas de los autores
+En la búsqueda de los autores más influyentes, mapas basados ​​en citas de los artículos con mayor impacto de
+la ciencia agropecuaria en Colombia se presentan y analizan en profundidad. Este análisis se caracteriza por su independencia
+ya que es bien sabido que WoS considera citar información como parte de su proceso de asignación de categorías o cuartiles
+a las revistas indexadas. La Figura 1 muestra la red de los 693 autores más citados en investigación agrícola dentro de la
+muestra. Esta información de citas se utiliza en el análisis de citas conjuntas de los autores para mostrar la relación entre la
+autores muy citados. El ranking de los 10 autores más citados se muestra en la Tabla 1.
+Dentro de la estructura de esta red, destaca la posición central del profesor Rao, I, quien junto a los autores
+Blair, M y Beebe, S conforman el cluster de los más influyentes dentro de la red (color violeta) por su
+productividad (número de documentos) e impacto (número de citas).
+
+Análisis de citas de la organización
+
+Figura 2. Mapa de citas de organizaciones de investigación agropecuaria en Colombia.
+La Figura 2 muestra la red de citas de organizaciones en investigación agropecuaria en Colombia. Esta pantalla de densidad muestra
+en rojo los ítems o nodos con mayor número de citas. La UNAL es la organización con mayor
+productividad dentro de la red con un total de 1.560 artículos, seguido del CIAT con 804 documentos. El central
+La posición de la UNAL en la red de citas se basa en el número de enlaces con otros nodos (372) así como en la
+indicador de fuerza dentro de la red (3520). La posición y los eslabones que representan el capital social de la UNAL
+mostrar la naturaleza influyente de esta organización en la investigación agrícola.
+Sin embargo, como se puede observar en la Figura 2, el nodo con mayor intensidad del número de citas es el CIAT con una
+total de 21.277 citas, que contrasta con las 12.273 de la UNAL. El CIAT es un centro de investigación que forma parte de la
+Sistema CGIAR, que es la mayor red mundial de innovación agrícola. El CIAT es una organización que realiza
+investigación colaborativa para mejorar la productividad agrícola y la gestión de los recursos naturales en los países en desarrollo
+los paises. Esta fortaleza en el número de citas del CIAT se sustenta en proporción al capital social de sus
+investigadores, cuyos vínculos en sus redes individuales muestran una mayor heterogeneidad (medida en el número de autores
+de diferentes países en su red). Esta diversidad se considera una fuente potencial de impacto dentro de la sociedad.
+redes de investigadores.
+La figura 3 demuestra la centralidad y vinculación de la universidad a nivel regional con mayor número de citas
+dentro de la investigación agropecuaria en Colombia, la Universidad de Antioquia.
+
+La Universidad de Antioquia presenta alta productividad, representada en un total de 782 artículos e impacto con un total
+de 902 citas. Destaca su posicionamiento dentro de la red por su cercanía a la UNAL y su vinculación con universidades
+en su territorio (Universidad de Medellín, EAFIT y Universidad Nacional, Medellín) junto con otros regionales
+universidades públicas, Universidad del Valle y Universidad Industrial de Santander.
+5. Discusión y conclusiones
+Este artículo analiza las redes de citas de autores y organizaciones en investigación agropecuaria en Colombia como
+contribución académica a la comprensión de la productividad y el impacto de la producción científica dentro de la
+área agrícola. Se identifican bajos niveles de heterogeneidad dentro de la red de citas de organizaciones en investigación en
+este campo en Colombia. A nivel nacional, el CIAT y la UNAL son las organizaciones con mayor influencia. En el
+regional, la Universidad de Antioquia, la Universidad del Valle y la Universidad Industrial de Santander,
+mostrar cercanía con la UNAL. Estas cuatro instituciones forman el grupo de universidades oficiales con mayor
+la productividad científica y el impacto de la investigación. Destaca la baja diversidad de las redes de organizaciones donde el 81%
+de los nodos de la red son universidades, y el 9% son centros de investigación en agricultura. De los típicos grupos de interés
+del SIA, no tienen participación significativa en la red, empresas, entidades territoriales y productores
+asociaciones.
+Los autores más influyentes dentro de la red de investigación científica de la muestra de artículos, con afiliación institucional
+a las universidades, son Ceballos (UNAL) y Torres-Palma (UDEA). Estos autores tienen el potencial para desplegar una
+papel mediador entre instituciones y autores regionales, con redes mundiales de investigación agrícola, así como para
+generar vínculos con otros grupos de interés como empresas y organizaciones de productores.
+De manera creciente la sociedad reclama de la ciencia
+y la tecnología (C&T), aportes verificables que respondan a necesidades apremiantes de la comunidad.
+Para el caso de Colombia con situaciones críticas de hambre, desnutrición, pobreza extrema, violencia, deterioro ambiental, entre otras, los grandes desafíos
+sociales, económicos y ambientales del país son, muy especialmente, un reto para la comunidad científica y tecnológica.
+Y lo es, en mayor grado, si tenemos en cuenta que se dan en Colombia al menos tres condiciones contradictorias: pobreza en la abundancia, dispersión de recursos e incidencia creciente del conocimiento en el
+desarrollo del país.
+En este entorno, la cooperación en C&T, que es frecuente en los grupos de investigación y desarrollo en Colombia, sobre todo en relación con grupos del
+exterior, aunque no es nueva, aparece como una necesidad y una oportunidad para afrontar los retos existentes y conlleva los cambios que el ritmo de
+cambio tecnológico y la competitividad internacional imponen a este tipo de relaciones e intereses.
+Las tendencias internacionales de asociatividad y articulación en busca de eficiencias colectivas sereflejan igualmente en las políticas de C&T en Colombia,- Convocatoria de Centros de éxcelencia, - por
+ejemplo. La cooperación científica y tecnológica presenta dos características que le son inherentes  Asociatividad  Movilización de recursos
+Una tercera característica considerada indispensable esa es la presente propuesta consiste en la creación de valor y su monitoreo explícito, como
+condición fundamental de la cooperación1. A esta característica se le ha denominado en el presente trabajo : Retorno a la inversión en la cooperación
+científica y tecnológica. Con apoyo en una encuesta realizada en desarrollo de esta temática2 / se plantean tres aspectos fundamentales en la caracterización de organizaciones en la
+cooperación científica y tecnológica y dos aseveraciones que aparecen de manera contundente en desarrollo de la encuesta   La territorialidad  Las temáticas de aplicación de la investigación,
+desarrollo e innovación tecnológicas (I&D+IT)  La disponibilidad y acceso a recursos  En la cooperación científica se trata de relación entre pares. De este reconocimiento parte toda
+posibilidad de una relación respetuosa y productiva, que se evaluará con estándares universales globalizados  Las asimetrías generadas por las condiciones diferentes entre los actores y las organizaciones
+del Norte y del Sur, especialmente en cuanto a la diversidad cultural y la disponibilidad y acceso a recursos, tienen implicaciones de fondo que deben ser tenidas en cuenta por cuanto condicionan la
+cooperación y sus impactos. En estos contextos de análisis, si se reconoce que los resultados de la cooperación científica son aprovechables y aprovechados como bien público o
+como bien comercial, cualquier forma que tome la cooperación (donación, alianza, cofinanciación, proyectos conjuntos), se basa en inversiones de las
+partes, sobre las cuales se generan expectativas en las fuentes de financiamiento y en los actores mismos (organizaciones, comunidades e individuos) que sobrepasan los resultados concretos del proyecto. Y se
+generan igualmente respuestas que ofrece la interacción institucional, asumida como una relación entre pares diferentes y complementarios. Se propone en consecuencia incluir el análisis del retorno a la
+inversión como un “principio”, con el fin de facilitar la resolución de conflictos y contradicciones en las situaciones planteadas. Si bien se propone que se haga explícito el potencial
+retorno comercial (derechos de Propiedad Intelectual, distribución de beneficios, toma de decisiones), el retorno social se propone como una exigencia a la
+cooperación y debería considerar, en todo caso para los actores del Sur, una expresión concreta en su contribución a La apropiación social y productiva del conocimiento
+generado, con incidencia especial en la política pública que le esté relacionada, El desarrollo sostenible de las comunidades involucradas, promoviendo la
+continuidad y enlace entre generación, uso y aprovechamiento del conocimiento, 3) Construcción de capacidad científica y tecnológica como aporte al capital
+social y productivo, 4) Aprendizaje institucional, desarrollo de organizaciones que “aprenden”, en contextos de cambio, y 5) Formación de recursos humanos con
+competencias de excelencia y capacidad operativa y estratégica Estas reflexiones y esta propuesta se plantean con el  interés de aportar a los procesos de consolidación de
+la cooperación científica y tecnológica, como contribución al desarrollo sostenible de una sociedad mundial más justa y feliz En este marco de política nacional y en el reconocimiento visionario regional de la importancia de la
+biotecnología para la producción bioindustrial del Occidente Colombiano, surge en 1995. Corporación BIOTEC promovida por la Universidad del Valle La Corporación BIOTEC, es un Centro de Desarrollo
+Tecnológico e Innovación, organizado en el esquema de Corporación, -entidad mixta, de régimen privado, sin ánimo de lucro-, en el marco de la Ley de Ciencia
+y Tecnología de Colombia, constituida en Febrero de 1995, con participación de los sectores académico, gubernamental, empresarial y de la sociedad civil. Su
+misión es desarrollar y aplicar biotecnologías microbianas y vegetales para contribuir a la optimización de las cadenas productivas bio-industriales, a partir
+del conocimiento y uso sostenible de la biodiversidad del Pacífico Colombiano, La Corporación cumple los siguientes propósitos  Aprovechar la biotecnología para la solución de
+necesidades y oportunidades de la bio-industria de la región y del país (sectores agrícola, agroindustrial y nuevos productos bioindustriales); - Aplicar desarrollos biotecnológicos adaptados a sistemas de
+cadena productiva (incremento en la generación de valor agregado) Desarrollar mecanismos que permitan una mayor velocidad de transferencia de la Investigación a la
+producción  Anté los niveles y exigencias de los desarrollos biotecnológicos, la Corporación BIOTEC ha planteado que sólo el trabajo asociativo, a nivel nacional
+e internacional, facilita el cubrimiento de la brecha tecnológica y permite “acelerar” la disponibilidad de la tecnología al servicio de la producción y el
+bienestar en la región. El modelo de trabajo de la Corporación BIOTEC es por ello asociativo desde la formulación misma de los proyectos y a través de
+redes, consorcios y asociaciones. El desarrollo de los proyectos se realiza apoyado en laboratorios y trabajo de campo de los socios y de los asociados
+de proyectos CIAT, Biotecol, Sucromiles, Levapan, fincas de cultivadores, entre otros  Su financiación proviene de aportes de socios, aportes de capital semilla de COLCIENCIAS, cooperación nacional e internacional y de recursos
+directos de proyectos. Como parte de un convenio especial de cooperación, la Corporación BIOTEC desde 1999 tiene su sede en el CIAT (Centro
+Internacional de Agricultura Tropical), en el Kilómetro 17 de la vía Cali – Palmira, Colombia El contexto social en el que cumple su misión la
+Corporación BIOTEC puede describirse con las siguientes observaciones, desde diversos ángulos, de la situación de la agricultura y el desarrollo rural en
+Colombia Las innovaciones tecnológicas, en este caso específico biotecnológicas, inciden directamente en la competitividad del sector agrícola (la productividad, la
+calidad y la diferenciación y diversificación), lo cual “hace la diferencia” con respecto a otros productos en el mercado, frente al valor agregado que se genera en
+el país y frente al uso sostenible de los recursos biológicos, al aplicarlas (tales innovaciones) con criterios de desarrollo sostenible7 /
+.
+La política de Innovación y Desarrollo Tecnológico en Colombia ha promovido la creación y puesta en marcha del Sistema Nacional de Innovación de Colombia
+con el propósito de dar respuesta a los retos de la sociedad y del sector productivo del país, frente a los fenómenos de la internacionalización de los mercados, la globalización de la economía y la sociedad de
+la información Corporación Biotec hace parte de este Sistema Nacional de Innovación, situación que lo ha puesto en contacto directo con cooperación nacional e internacional, entre entidades públicas y privadas, con fines
+sociales y comerciales y en relaciones académicas y empresariales. El proceso de la organización, desde su constitución con el liderazgo y convocatoria de la
+Universidad del Valle, ha sido de aprendizaje y de construcción institucional, sometido a cambios y a transiciones de política y de decisiones en la comunidad científica, empresarial y académica, no exento de
+crisis y en todo caso sometida a una precariedad permanente de recursos y a una deficiente apropiación social y productiva del conocimiento, ante otras prioridades sociales y económicas del país.
+La sostenibilidad de la Corporación ha estado favorecida por la asociatividad nacional e internacional, donde no todos los sectores han estado en crisis al
+mismo tiempo. El proceso institucional de Corporación BIOTEC se ha fortalecido, igualmente, con su enfoque de “desarrollo tecnológico e innovación en
+procesos de construcción social de región”, lo cual le ha permitido establecer alianzas estratégicas conExaminar las dinámicas de género en cada región y contexto es importante para asegurar que los procesos y proyectos 
+de desarrollo que utilizan servicios geoespaciales sean inclusivos, alcancen y beneficien con éxito a mujeres y hombres de diferentes orígenes. En particular, es fundamental revisar los roles y las diferencias de género en el acceso y control de los recursos, 
+la participación en los procesos de toma de decisiones, así como otros procesos de exclusión social; por ejemplo, aquellos que puedan derivarse del origen étnico, la edad o clase. Por lo tanto, uno de los principales objetivos de este informe es sintetizar la 
+situación de las mujeres en la Amazonía y los principales desafíos a los que se enfrentan. Un segundo objetivo, es generar ideas y recomendaciones sobre la forma en que los proyectos y servicios geoespaciales pueden abordar temas de desigualdad de género y cómo 
+pueden beneficiar específicamente a las mujeres. Con el fin de poder alcanzar estos objetivos, el informe analiza la información obtenida a través de tres técnicas principales: i) estudio de la literatura científica y organizacional; ii) entrevistas con informantes clave; 
+encuesta con diferentes profesionales afiliadas con el Programa SERVIRAmazonia.Estas redes tienen diferentes niveles de actividad. Por ejemplo, WiGIS-BR (Brasil) tiene una comunidad
+en Whatsapp para promover la integración e investigación en políticas de género en compañías que trabajan georreferenciación. De otro lado, la Red Colombiana de Mujeres Científicas cuenta con un
+grupo de Género, Ciencia y Salud, donde hay investigadoras de distintas disciplinas con interés no solo en el cambio climático y la minería, sino también en la generación de alianzas que permitan alcanzar al
+territorio amazónico. En el área de tecnologías geoespaciales y monitoreo, en Perú, una de las organizaciones resaltó haber realizado una serie de talleres
+sobre mapeo en línea y recolección de datos con organizaciones locales indígenas, uno de estos fue dirigido a un grupo específico de liderazgo femenino. De igual manera, en Colombia, una
+de las entrevistadas resaltó un proyecto de educación, donde se utilizaban los resultados provenientes de cámaras trampa y las mujeres contribuían en el ejercicio de recopilar y
+reconstruir las historias asociadas a las diferentes especies que estas recolectaban. Sin embargo, cabe resaltar que aunque estos procesos pueden contribuir a fortalecer las capacidades técnicas
+de las mujeres participantes, no fueron diseñados específicamente para mejorar la situación de las mujeres en las comunidades amazónicas, incluyendo a las mujeres indígenas.
+Mientras que la importancia del enfoque de género y la necesidad de abordar los desafíos y retos específicos que tienen las mujeres en la Amazonía se resaltó en todas las entrevistas
+realizadas, algunas de las organizaciones declararon no tener una estrategia formal de género. En un estudio realizado en Lesotho, Etiopía y Ghana, Walker y Vajjhala (2009) exploraron el uso de SIG para estudiar evaluaciones sobre la dimensión de género en el transporte. La
+investigación combinó cartografía participativa, encuestas demográficas y de salud (DHS, por sus siglas en inglés) desagregadas por género y datos SIG del sector del transporte. A
+través de estos métodos, el estudio logró la visualización y evaluación de los problemas de transporte y de las barreras sanitarias para hombres y mujeres. Estos datos pueden
+servir para el establecimiento de prioridades nacionales; por ejemplo, para el diseño y elaboración de nuevos planes de inversión para nuevas carreteras y clínicas, mejorar el acceso
+a clínicas con nuevos senderos o invertir en transportes públicos para que mujeres y grupos vulnerables puedan mejorar el acceso a clínicas.
+En Tanzania y Zambia, la Agencia de Estados Unidos para el Desarrollo Internacional (USAID, por sus siglas en inglés) está haciendo uso de la “Aplicación móvil para asegurar la
+tenencia” de la tierra (MAST, por sus siglas en inglés). Esta herramienta se combina con una plataforma de gestión de datos geográficos para recolectar información en terreno,
+incluidos los nombres y personas de quienes utilizan y ocupan la tierra, para documentar así los derechos de propiedad sobre la tierra. El uso de esta aplicación está teniendo beneficios
+en cuanto al registro y reconocimiento de los derechos de hombres y mujeres sobre la tierra, así como para reducir la igualdad de género y promover el empoderamiento de las
+mujeres mediante la obtención de certificados de propiedad (USAID, 2019). Investigadores de la Flowminder Foundation examinaron en Nepal datos de encuestas
+geolocalizadas, representativas a nivel nacional con imágenes de satélite y datos de teléfonos móviles, para modelar y cartografiar variaciones espaciales y las desigualdades
+de género en cuanto a la alfabetización, la ocupación en la agricultura y los nacimientos en instalaciones de salud en el país (Bosco et al., 2019).
+En Nepal, Brown (2003) combinó encuestas de campo con información geoespacial para examinar los roles de género, responsabilidades y cargas de trabajo en una
+cuenca hidrográfica en Nepal. El estudio encontró que las diferencias espaciales en las cargas de trabajo estaban relacionadas con el acceso a carreteras. En concreto, las
+mujeres que vivían más cerca de la carretera trabajaban en promedio más que otras mujeres; y los hombres que vivían cercanos a las carreteras participaban más en tareas que
+son normalmente asociadas a las mujeres (p. ej. recolección de agua potable). Las entrevistas preliminares sirvieron para revelar algunas experiencias, donde se estaban
+utilizando servicios geoespaciales para ayudar de manera directa a las comunidades locales y potencialmente también a las mujeres. Entre estos cabe resaltar:
+Mapeo propietarios cacao, café y palma aceitera: una de las actividades que se resaltó como potencialmente beneficiosa para las mujeres fue la realización de mapeos
+de las plantaciones de cacao, café y palma aceitera. Estudiando la proporción de mujeres propietarias de estos cultivos y trabajando con organizaciones locales de mujeres, esta
+actividad podría beneficiar y estar dirigida a mujeres propietarias. Si, por ejemplo, se consiguiera un subconjunto (subset) de mujeres productoras dueñas de alguna de
+estas organizaciones de cacao, se podría ver cuáles son sus necesidades. En SERVIRAmazonia una nueva experiencia es el mapeo virtual de las parcelas de cacao a cargo de
+mujeres, buscando empoderarlas en términos de la localización geoespacial. La labor se realiza a través de facilitadores en tiempos de pandemia.
+Mapeo de terrenos para programas de seguro agrícola: otra de las experiencias positivas del programa SERVIR en África del Este y del Sur fue el uso de tecnología
+geoespacial para ayudar en programas nacionales de seguro agrícola. Este programa de seguros agrícolas necesitaba estudiar las tierras de cultivo a gran escala, para tener
+una idea de a quién se podría incluir. SERVIR-Amazonia es parte de SERVIR Global, una iniciativa de desarrollo conjunto de la Administración Nacional de Aeronáutica y del Espacio (NASA) y los Estados Unidos
+Agencia para el Desarrollo Internacional (USAID). Desde 2005, SERVIR ha trabajado en asociación con países para utilizar la información proporcionada por Earth-observing
+Satélites y tecnologías geoespaciales. SERVIR-Amazonia, liderado por la Alianza de Bioversity International y el CIAT, es el más nuevo de cinco hubs SERVIR. Es un programa de cinco años (2019-2023) que trae
+juntos el conocimiento local y algunas de las mejores ciencias del mundo en geoespacial y Tecnología de observación de la tierra. El hub SERVIR-Amazonia trabaja con socios regionales para comprender las necesidades y
+luego traducir estas necesidades en el desarrollo de herramientas, productos y servicios que permitirán a los países del cuenca amazónica para mejorar la toma de decisiones e incorporar mejor la voz de las mujeres, los pueblos indígenas y sus
+comunidades La Alianza de Bioversity International y el Centro Internacional de Agricultura Tropical (CIAT) ofrece soluciones basadas en la investigación que abordan las crisis mundiales de desnutrición, cambio climático, pérdida de biodiversidad y problemas ambientales.
+degradación. La Alianza se centra en el nexo de la agricultura, el medio ambiente y la nutrición. Trabajamos con socios locales, nacionales y multinacionales
+en África, Asia y América Latina y el Caribe, y con los sectores público y privado y la sociedad civil. Con asociaciones novedosas, la Alianza genera evidencia e incorpora innovaciones para transformar los sistemas alimentarios y los paisajes para que sustenten el planeta,
+impulsar la prosperidad y nutrir a las personas en una crisis climática. La Alianza es parte de CGIAR, la asociación de investigación e innovación agrícola más grande del mundo para un futuro con seguridad alimentaria, dedicada a
+reducir la pobreza, mejorar la seguridad alimentaria y nutricional y mejorar los recursos naturales. El hub SERVIR Amazonia está alojado en el Americas Hub de la Alianza de Bioversity International y el CIAT,
+Ubicado en Cali, Colombia. Los socios de SERVIR-Amazonia incluyen  Grupo de Informática Espacial - SIG Estados Unidos  Conservación Amazónica - ACCA Perú
+Instituto de Gestión y Certificación Forestal y Agropecuaria - IMAFLORA Brasil • Fundación EcoCiencia Ecuador El Programa trabaja en Brasil, Perú, Colombia, SERVIR-Amazonia diseña y entrega servicios con el apoyo de:
+• Un Equipo de Ciencias Aplicadas: Un proceso competitivo de subvenciones liderado por la NASA que apoya a SERVIR en el desarrollo aplicaciones científicas para el desarrollo internacional mediante el uso de observaciones de la Tierra.
+• Un grupo de expertos en la materia: científicos o profesionales de los Estados Unidos financiados por la NASA para dedicar dos meses de su tiempo para ayudar a SERVIR-Amazonia a abordar temas clave importantes para el desarrollo de la actividad.
+• Una Red de Socios Académicos: conecta universidades de la región amazónica entre sí, así como con sus contrapartes en los Estados Unidos, para desarrollar capacidades y co-crear herramientas y servicios basados en
+información geoespacial.  Un Ecosistema de Emprendimiento: Vincula los servicios a modelos comerciales más grandes que aprovechan la participación pública-privada
+asociaciones. así como en Ecuador, Surinam y Guyana.El CIAT forma parte de CGIAR, la mayor alianza mundial de organizaciones de investigación agrícola para el desarrollo. Siendo uno de sus 15 centros miembros, la investigación global del CIAT nutre la agenda colectiva de CGIAR. 
+Nuestra Estrategia 2014–2020 fue desarrollada para apoyar la Estrategia y Marco de Resultados de CGIAR y las prioridades fijadas por los Objetivos de Desarrollo Sostenible (ODS). Nuestra investigación está estrechamente alineada con el portafolio actual de CGIAR de programas de investigación mundial.
+El CIAT lidera el Programa de Investigación de CGIAR en Cambio Climático, Agricultura y Seguridad Alimentaria (CCAFS) y comparte la coordinación de HarvestPlus, que es una parte importante del Programa de Investigación de CGIAR sobre Agricultura para la Nutrición y la Salud.
+CCAFS reúne a algunos de los mejores investigadores del mundo en ciencias agrícolas, ciencia climática, ciencias ambientales y sociales para identificar y abordar las más importantes interacciones, sinergias y compensaciones en ventajas vs. desventajas entre el cambio climático y la agricultura.
+CCAFS es liderado por el CIAT. Se trata de una colaboración entre todos los 15 centros de investigación de CGIAR y se coordina con los otros programas de investigación de CGIAR.
+HarvestPlus mejora la nutrición y la salud pública desarrollando y promoviendo cultivos alimenticios biofortificados que sean ricos en vitaminas y minerales, y proporcionando liderazgo global en el tema de evidencia y tecnologías de la biofortificación. 
+HarvestPlus forma parte del Programa de Investigación de CGIAR sobre Agricultura para la Nutrición y la Salud (A4NH) y es liderado conjuntamente por el CIAT y el Instituto Internacional de Investigación sobre Políticas Alimentarias (IFPRI).
+La presenta publicación sistematiza la experiencia de la Alianza Aprendizaje Perú a la luz de sus once años de trabajo y que aspira ser la base para una nueva etapa de trabajo para responder a los retos que el nuevo escenario actual plantea para promover el desarrollo y encontrar alternativas para la población más vulnerable del país. 
+El estudio ha sido realizado por la empresa Proexpansión y conducido por Gladys Triveño en coordinación con el equipo técnico de la Alianza. Ponemos a disposición el estudio a los agentes de desarrollo, tanto gubernamentales como no gubernamentales, que pueden obtener múltiples beneficios al participar en alianzas de aprendizaje: 
+ posibilidades de fortalecimiento y colaboración entre organizaciones de desarrollo con objetivos similares pero con diversas experiencias y capacidades; (ii) materializar la sistematización de experiencias que permita su difusión a través de diferentes mecanismos y medios de comunicación; (iii) el desarrollo y ajuste de políticas, 
+mecanismos de intervención, metodologías y herramientas más efectivas para facilitar procesos de desarrollo que contribuyan al logro de medios de vida sostenibles; y (iv) la construcción de contactos y redes entre organizaciones con objetivos comunes, que permitan en el corto y mediano plazo desarrollar y gestionar propuestas de desarrollo conjuntas.
+Un hecho común en la actuación del sector público, sector privado y la cooperación técnica y los organismos no gubernamentales, es que se comparte poco conocimiento sobre los factores críticos de las intervenciones en el campo de la investigación y desarrollo, y menos aún se intercambian experiencias. Esto afecta la eficacia de las intervenciones porque no se
+reconoce las posibilidades del aprendizaje colectivo, el potencial de tender puentes de diálogo, y, con ello las oportunidades de generar sinergias e incluso escalar acciones por medio de la incidencia en políticas. La Alianza surgió basada en objetivos compartidos, buscando generar una respuesta colectiva frente a la limitada relación entre la investigación y su aplicación en el mundo real, a la escasa
+capitalización de conocimientos y experiencias previas. Se ha mantenido vigente por su preocupación e interés en aportar con su conocimiento, actuar conjuntamente y conseguir un objetivo común que es contribuir al desarrollo del sector productivo agrario. También se sustenta en un concepto de reciprocidad que implica la disposición a contribuir, ser propositivo
+y a participar de una organización que permita incrementar la escala de los proyectos que se puedan realizar, acelerar el aprendizaje porque se accede a información significativa, ampliar las redes de contacto y por supuesto profundizar relaciones de confianza entre organizaciones. El trabajo permanente de identificación de temas de interés compartido que luego se
+desarrollaban en investigaciones y estudios que fueron socializados entre los socios y difundidos en las regiones, el sector público y la comunidad académica, permitió que la Alianza fuera ganando credibilidad como referente del sector agrario. Este reconocimiento permitió que surja la oportunidad, por iniciativa propia y de las entidades del propio Estado, de realizar
+acciones de incidencia política con varios propósitos: que se admita la implementación de proyectos de inversión pública en temas productivos y sociales; se introduzca un cambio en  
+Incrementar la escala de los proyectos que individualmente podían implementar, compartiendo sus competencias claves y ampliando sus redes de contacto, lo cual además
+creó la confianza necesaria para cooperar en otras iniciativas.Finalmente, el Proyecto HUB Regional Andino, desarrollado por el Programa sobre Políticas,
+Instituciones y Mercados -PIM- del grupo Consultivo sobre Investigaciones Agrícolas Internacionales -CGIAR- que promueve la coordinación con organizaciones que apoyan y
+brindan asistencia técnica a cadenas de valor para buscar articular comunidades de práctica existentes, y facilitar conexiones entre investigación, desarrollo, evidencia y formulación de
+políticas, plantea una oportunidad para que la Alianza pueda fortalecer y ampliar su accionar. La Alianza tiene como reto evaluar si desea escalar a un liderazgo regional (internacional) para
+facilitar el acceso y desarrollo de métodos, herramientas y enfoques de alta calidad, diálogo de políticas, las capacidades de los actores para investigación y desarrollo, intervenciones de
+escalamiento e implementar herramientas de monitoreo y evaluación.Cada año se gastan millones de dólares en iniciativas de investigación y desarrollo (I+D) para
+mejorar los medios de vida rurales en el mundo en desarrollo. A pesar de este gasto, la pobreza rural sigue siendo un problema intratable en muchos lugares. Entre las múltiples causas de esta
+situación es el limitado aprendizaje colectivo que se da entre investigadores, desarrollo trabajadores, donantes, formuladores de políticas y empresas privadas. Como resultado, la investigación útil no
+no benefician a los pobres, las lecciones aprendidas no influyen en las agendas de investigación, donantes y políticas son menos relevantes de lo que podrían ser, y el desarrollo se tambalea.
+A partir de 2003, un grupo de actores en Centroamérica, incluyendo internacionales y locales ONG, un centro internacional de investigación agrícola, una universidad nacional y el
+El Centro Internacional de Investigaciones para el Desarrollo se reunió para explorar cómo mejorar los vínculos entre los actores de la investigación y el desarrollo a través de alianzas de aprendizaje. Él
+El enfoque temático elegido fue el desarrollo de empresas rurales. Se esperaba que las alianzas de aprendizaje facilitaran el desarrollo de conocimientos acumulativos y compartidos.
+conocimiento entre organizaciones de investigación, agencias de desarrollo y donantes sobre qué funciona, qué no y por qué en contextos temporales y espaciales. Compartido y
+el conocimiento accesible en este sentido puede contribuir a mejorar los resultados del desarrollo ya que las lecciones se identifican y aprenden rápidamente. En segundo lugar, mejores vínculos entre la investigación
+y los actores del desarrollo deben mejorar el enfoque de la investigación y el desarrollo práctica. A medida que disminuyen los fondos, el aumento de la eficiencia se vuelve primordial para lograr
+cambio positivo en los medios de vida. Por lo tanto, las alianzas de aprendizaje se propusieron como un proceso impulsado por vehículo a través del cual la eficacia de las inversiones en los medios de vida rurales podría ser
+aumentado. Cuatro años más tarde, las alianzas de aprendizaje han contribuido a cambios significativos en los socios. conocimientos, actitudes y prácticas. La evidencia muestra una mejor conectividad entre
+organizaciones que trabajan en temas similares, un mejor acceso a la información y el conocimiento sobre desarrollo de empresas rurales y acceso a mejores métodos y herramientas. Actitudes
+han pasado de la competencia a la colaboración como evidencia de que los socios trabajan juntos mejoran su capacidad para atender las necesidades de las comunidades rurales y recibir donantes
+fondos en lugar de socavarlos. Conocimientos y prácticas de desarrollo de empresas rurales la gestión ha mejorado como lo demuestra el aumento de la eficacia en los proyectos existentes
+y nuevos proyectos más estratégicos. Estos cambios, a su vez, contribuyen a una mayor eficiencia sistema de innovación a favor del desarrollo empresarial rural como lo demuestra el
+uso y generación de información, programas conjuntos de desarrollo de capacidades y a gran escala, proyectos colaborativos. Para los socios de investigación, las alianzas de aprendizaje han permitido el desarrollo de
+Redes con usuarios finales. Estos enlaces brindan una orientación clara y comentarios sobre las principales áreas para futuras investigaciones, una plataforma potencial para presentar investigaciones de acción adicionales
+propuestas, costos de transacción reducidos en el desarrollo de propuestas y implementación y acceso a fuentes de financiamiento complementarias, incluida la venta de
+servicios a socios y proyectos de desarrollo. Una ganancia adicional es la capacidad de ofrecer una plataforma de aprendizaje multisectorial creíble para propuestas más sistémicas. Propuestas
+que contienen una masa crítica de actores de I+D son más atractivos para ambas agencias donantes así como socios potenciales del sector público y privado. El trabajo inicial en esta área como
+posible punto de apalancamiento para la innovación a favor de los pobres entre la investigación, el sector privado y Se muestra que las agencias de desarrollo contribuyen a cambios concretos que favorecen a las pequeñas
+productores y sus familias Estas poblaciones fueron avanzadas con dos propósitos principales, generar líneas promisorias para ser enviadas a los socios para su selección bajo condiciones de estrés por calor en el campo,
+y generar una población para el análisis genómico dirigido a la identificación de regiones responsables de la tolerancia al calor. Para el primer objetivo se utilizaron 128 graneles F3.5
+obtenido con una amplia gama de tipo de grano y la semilla se enviará a los socios para evaluación y selección de campo. Para el objetivo 2, alrededor del 34% de F4.5 interespecífico
+familias evaluadas frente al estrés por calor en condiciones de invernadero han demostrado buen nivel de tolerancia en base a su capacidad de formación de vainas.
+Además de las actividades de investigación, en octubre de 2019 se realizó un taller en Palmira donde se pusieron en práctica todos los métodos y herramientas disponibles en el CIAT para el mejoramiento por estrés calórico.
+armonizados entre criadores de diferentes países. El contenido de este El taller incluyó conferencias, secciones prácticas de laboratorio y prácticas de invernadero y campo.
+l Laboratorio de Servicios Analíticos del CIAT, creado en 1973, ofrece a sus usuarios la realización de pruebas en suelos, tejido vegetal, insumos agrícolas, aguas para riego, para lo cual aplica 88 tipos de parámetros.
+ Adicionalmente, se ofrecen análisis especializados para determinación de metales pesados por la técnica de Espectroscopia de Emisión Óptica con Plasma Acoplado inductivamente (ICP – OES), como por ejemplo cadmio (Cd) 
+en cacao, suelos, plantas, aguas e insumos.  El laboratorio se desempeña bajo la Norma NTC/IEC 17025, participa activamente en los programas WEPAL(Wageningen Evaluating Programmes for Analytical Laboratories, por sus siglas en inglés) de Holanda. 
+Al tiempo que brinda sus servicios a las áreas de investigación en que se enfoca el CIAT, también atiende las solicitudes de clientes externos como la Corporación BIOTEC, la Corporación Clayuca, el Fondo Latinoamericano para Arroz de Riego (FLAR), 
+el Centro para el Mejoramiento de Maíz y Trigo (CIMMYT), la Fundación para la Investigación y el Desarrollo Agrícola (FIDAR), HarvestPlus, Agencia de Cooperación Internacional de Japón (JICA), Ingredion, Smurfit Kappa Cartón de Colombia, Ingenio la Cabaña, Universidad del Valle,
+ Universidad ICESI, Universidad del Cauca, Corpoica, Ingenio Providencia, Universidad de Antioquia, Fundación CIPAV, Sucroal S.A., Universidad del Quindío, Asocaña y la Universidad Nacional de Colombia – Seccional Palmira, entre otros.
+Caracterización: Estos análisis son útiles para detectar rápidamente el estado en que se encuentra el suelo. Incluyendo los aspectos más importantes a nivel de nutrientes mayoritarios.
+pH y aluminio: Realizado mediante la técnica de potenciometría Materia orgánica, fósforo y azufre: Elaborado con la técnica de Ultravioleta Visible.
+Potasio, calcio, magnesio y sodio: a través de la técnica de Absorción Atómica, Análisis de elementos menores: Útil para conocer cuáles son estos elementos, tomados por las plantas en pequeñas cantidades, se encuentran presentes en el suelo y así determinar las deficiencias que florecen el crecimiento y desarrollo 
+de las plantas. Estos elementos son hierro, cobre, zinc, manganeso- evaluados mediante Absorción Atómica- y boro a través de Ultravioleta Visible.
+Análisis químico completo: Incluye caracterización, análisis de elementos menores y la evaluación de la capacidad de intercambio catiónico que se lleva a cabo con la técnica de potenciometría, ofreciendo así un diagnóstico completo de la fertilidad del suelo. Este análisis es de especial utilidad para la identificación del cultivo más apto para el tipo de suelo estudiado,
+ así como para definir el tipo y cantidad de fertilizante para contrarrestar las deficiencias que presente.
+Salinidad del suelo: Evaluación de los cationes solubles, mediante pasta de saturación, y de calcio, magnesio, potasio, sodio –a través de Absorción Atómica-; amonio con la técnica de Ultravioleta Visible, y el pH y la conductividad eléctrica por potenciometría.Este análisis permite conocer los niveles de cationes y aniones, facilitando así la identificación de excesos o 
+deficiencias en los suelos Los aniones solubles como nitratos, carbonatos y bicarbonatos son evaluados por potenciometría, 
+mientras que los sulfatos por la técnica de Ultravioleta Visible. Caracterización de nitrógeno: Establece los niveles de nitrógeno orgánico y mineral (amonio, nitrato y nitrito) aplicando la técnica de Ultravioleta Visible en el suelo.
+Nitrógeno y fósforo total: Permite conocer el contenido total de estos elementos, haciendo especial énfasis en la cantidad de fósforo disponible para ser tomado por la planta.
+Parámetro individual: Forman parte de cualquiera de los análisis de suelos y del resto de la oferta de servicios del laboratorio. Los usuarios pueden solicitar el análisis individual de un parámetro en particular.
+Recepción, Almacenamiento y Devolución de Muestras El Laboratorio de Física de Suelos del CIAT, tiene como finalidad identificar procesos o mecanismos degradativos  del suelo y así brindarle a sus usuarios la información para identificar la interacción con los factores relacionados a la disminución del rendimiento de los cultivos, y desarrollar medidas de restauración de las propiedades físicas del suelo.
+Además de los proyectos de investigación internos, el laboratorio presta servicios a instituciones de educación como la Universidad Nacional, Universidad del Valle, Universidad de Córdoba, Universidad Tecnológica de Pereira y Universidad Francisco de Paula Santander e instituciones privadas y públicas como Asocaña, Agencia de Cooperación Internacional de Japón (JICA), Fedearroz entre otros, fortaleciendo la formación académica, 
+apoyando proyectos de investigación y atendiendo necesidades de la comunidad agrícola y de obras civiles. El Laboratorio de Física de Suelos cuenta con personal con la formación requerida para brindar capacitación en la toma de muestras de suelo, metodologías e interpretación de resultados.
+El laboratorio de Análisis de Gases de Efecto Invernadero del CIAT, realiza el análisis de emisiones de gases de suelo provenientes de diferentes sectores y prácticas agropecuarias. Adicionalmente, ofrece asesoría integral en la realización de proyectos, que van desde asesorías para implementar metodologías según los sistemas que se deseen evaluar, hasta el análisis de diferentes parámetros químicos. 
+El laboratorio presta sus servicios tanto a las diferentes áreas de investigación del CIAT, como a clientes externos.
+Dentro de los clientes externos que solicitan el servicio de este laboratorio se encuentran Universidades públicas y privadas como la Universidad del Valle, la Universidad de Antioquia, Universidad Nacional de Colombia, Universidad Francisco de Paula Santander y la Universidad Icesi. De igual manera, presta sus servicios de análisis a instituciones con las cuales desarrolla trabajos de investigación conjunto, 
+como Corpoica, el Centro para la Investigación en Sistemas Sostenibles de Producción Agropecuaria (CIPAV) y el Centro Agronómico Tropical de Investigación y Enseñanza (CATIE). El laboratorio se rige bajo el Sistema de Gestión de Calidad en la normatividad internacional NTC ISO/IEC 17025:2005, desde la capacitación del personal hasta la entrega oportuna de los resultados.
+Las plagas y patógenos vegetales pueden arrasar con el arduo trabajo de los agricultores y ocasionar pérdidas significativas de rendimiento e ingresos, constituyendo así una grave amenaza a la seguridad alimentaria y nutricional de millones de personas a la vez. El laboratorio integra diferentes enfoques y herramientas digitales abiertas para comprender, detectar y monitorear la ocurrencia de plagas transfronterizas y patógenos en todo el mundo.
+Transversal a diversos cultivos y entornos, la investigación pionera del CIAT en suelos busca restaurar tierras degradadas, lograr una agricultura sostenible adaptada al clima y mejorar la salud del suelo. Nuestra labor aborda desde parcelas en fincas individuales hasta paisajes enteros. Para facilitar esta investigación,
+el CIAT cuenta con cinco laboratorios especializados, donde se combinan un equipo humano idóneo y facilidades tecnológicas, útiles para generar resultados confiables que agilicen diagnósticos más certeros y orienten acciones para hacer un uso sostenible del suelo Este laboratorio realiza análisis especializados para la investigación en fósforo. A nivel químico,
+se enfoca en el ciclaje de nutrientes; en la parte bioquímica, en biomasa microbiana y análisis enzimático; en lo relacionado con el aspecto físico-químico, se especializa en la capacidad de retención, para así dar un diagnóstico acerca de la calidad nutricional del  laboratorio fue montado por el proyecto AgroSalud, un consorcio financiado por la Agencia Canadiense de Desarrollo Internacional (Cida) y la Fundación Monsanto. Allí, el trabajo se centrará en medir la cantidad de absorción de hierro, proteínas, vitamina A y zinc en el cuerpo humano, a partir de alimentos mejorados (biofortificados) y que el cuerpo logra asimilar. La investigación se ejecutará a través de métodos in vitro, es decir simulando el proceso digestivo, desde la boca hasta el intestino. De esta forma se probará si, efectivamente, las investigaciones hechas en biofortificación han dado resultado; precisamente, el Ciat trabaja en este tema con el maíz, el fríjol, el arroz y el camote o batata. La biofortificación es una técnica que aprovecha la variabilidad genética disponible en estos cultivos, en cuanto al contenido de nutrientes, para mejorar su calidad alimenticia. Esta investigación se ejecuta en Colombia con una donación de 25 millones de dólares entregados por el empresario de Microsoft, Bill Gates.WILABR
+El convenio marco de cooperación técnica internacional, celebrado en 2017 entre Instituto Colombiano Agropecuario (ICA) y el Centro Internacional de Agricultura Tropical (CIAT), permite aunar esfuerzos para el intercambio internacional, el control y la movilización en el territorio nacional de plantas y sus partes, organismos y otros artículos reglamentados destinados a los proyectos de investigación del CIAT.
+El CIAT es una entidad dedicada a la investigación y la conservación de especies vegetales de diversos países del mundo. Para el año 2019, el CIAT, con acompañamiento del ICA, logró llevar a cabo de manera satisfactoria 109 trámites relacionados conexportación y 22 de importación de germoplasma de las especies: arroz, maíz, frijol, yuca y forrajes, el germoplasma que salió desde el Centro Internacional de Agricultura Tropical, fue enviado a importantes centros de investigación localizados en diferentes partes del mundo.
+Bogotá, 3 de marzo de 2020. Durante el comité técnico, realizado entre ICA-CIAT, directivos del Instituto y representantes del centro de investigación acordaron los lineamientos y el plan de trabajo para la vigencia 2020, en temas relacionados con la evaluación de riesgos, metodologías para análisis de laboratorio y la importación y exportación de germoplasma. Como parte de los acuerdos firmados entre las dos organizaciones en 2017, el ICA ha asumido el compromiso de evaluar los riesgos y emitir conceptos técnicos para establecer los requisitos fitosanitarios y las medidas cuarentenarias que permitan la importación de plantas, productos vegetales y otros artículos reglamentarios, incluyendo organismos vivos, de manera segura, con el propósito de garantizar el desarrollo oportuno de los programas de mejoramiento y conservación que el CIAT adelanta en el país.
+En cuanto a las medidas cuarentenarias, el Instituto establece lineamientos claros, relacionados con la producción e importación de vegetales, con el fin de prevenir el ingreso o diseminación de plagas, patógenos, malezas u otros organismos que pongan en riesgo la sanidad vegetal del territorio nacional.
+“Desde el ICA se continuarán identificando estrategias orientadas a la facilitación de los procedimientos para la evaluación de riesgos, y hacer más eficientes y expeditos los procesos de importación de frijol, arroz, yuca, maíz y forrajes; principales productos objeto de las investigaciones por parte del CIAT.”, señaló el coordinador del Grupo Nacional de Cuarentena Vegetal (GNCV) del ICA, Iván Zamora Rodríguez.
+El ICA y el CIAT vienen trabajando articuladamente para fortalecer sus acciones conjuntas en temas relacionados con el diagnóstico de plagas y enfermedades que afectan la producción agrícola colombiana, y el seguimiento fitosanitario al germoplasma importado para los procesos de investigación.
+Para el año 2019, el centro de investigación recibió por parte del ICA el certificado de registro para el laboratorio de sanidad, destacándolo como un laboratorio de diagnóstico reconocido a nivel nacional. El comité técnico contó con la participación de las áreas técnicas del Instituto: el coordinador del Grupo Nacional de Cuarentena Vegetal, el Director Técnico de Evaluación de Riesgos, el Director Técnico de Epidemiologia y Vigilancia Fitosanitaria, el Director Técnico de Semillas y el Director Técnico de Análisis y Diagnóstico Fitosanitario.
+Según el Director Ejecutivo del CIAT, Luis Ernesto Hurtado Paz, anunció que para fines de mayo se realizará el evento internacional “XII Jornada Nacional e Internacional de Bovino Criolla” en el Municipio de Boyuibe, con la presencia del Presidente de los criadores de bovinos del Brasil, Argentina, Paraguay, Colombia. En la ocasión el CIAT participará a través de la Asociación de criadores de Bovino Criollo Santa Cruz, pretende presentar los avances y logros en investigaciones emprendidas desde hace más de 40 años y observar los avances en los países vecinos.
+En la actualidad el CIAT a través de este proyecto, logró posesionar y difundir los beneficios de la raza en ganaderos que valoran la mansedumbre y buena habilidad materna siendo receptor de transferencia de embrión. Su responsable, Dr. Alex Palenque, en el Marco de la Exponorte 2019 presentó los resultados del proyecto en materia de genética con relación al Bovino Criollo, explicó que se realizaron trabajos de investigación con cruzamiento de raza Criolla y Holando para observar la resistencia de garrapatas e incrementar la producción de leche. Asimismo, los criollos que tuvieron producción de poca leche, se hizo un cruzamiento con la raza Brahman con excelentes resultados, “nosotros pretendemos lograr nuestro propio Girolando y este año estamos trabajando en ello”.
+El laboratorio de biotecnología muestra resultados Gabriela Rivadeneira, especialista en biotecnología y responsable del Proyecto de Manejo Integrado de Cultivos y Biotecnología, informó los avances en la materia que lleva adelante el CIAT. “Actualmente, el laboratorio, exclusivo de cultivo in vivo de roya se está realizando una colecta de dicha enfermedad en la zona soyera de Santa Cruz para luego hacer inoculaciones artificiales de roya asiática, que es la principal enfermedad que afecta los cultivos a nivel internacional” dijo.
+Asimismo, expuso que uno de los trabajos que realizan, es el de investigación básica para poder apoyar los proyectos de mejoramiento convencional que tiene el CIAT, asistiendo con diagnóstico molecular para identificar patógenos sistémicos como las bacterias que dañan la panícula del cultivo de arroz. En el caso de Trigo; gracias a la capacitación de la “Universidad Kansas State”; se está implementando el uso de un “Primer” que se une a una parte del cromosoma que existe en el genoma del trigo y permite identificar si es que existe resistencia a la Pyricularia de trigo, para que el mejorador genético pueda acortar los tiempos de selección convencional.
+La experta afirma que “es un gran avance que beneficia al productor porque fortalece la parte productiva para la generación de investigación básica con el uso de biología molecular dentro de la biotecnología, ya que contamos con alto potencial, con el primer laboratorio en Santa Cruz de la Sierra en el cual ya se están generando resultados en cuanto a biología molecular”. Los resultados más representativos son la identificación de patógenos para poder alertar a nivel fitosanitario y así poder manejar estrategias de combate para control y efectividad de manejo; como también con mariposa perforadora de los frutos, donde la especialista en entomología, Ing. Paulina Jaldin, mediante la técnica de extracción de Genitalia, logró identificar y así poder hacer una alerta, para esto llegó un especialista de Brasil para establecer qué medidas se tomarán con respecto a esta plaga en coordinación con otras instituciones
+La segunda feria más importante del departamento Cerca de 500 expositores se dan cita en el campo ferial de Exponorte 2019 en el área pecuaria, agrícola, comercial e industrial. Cada año, el evento logra romper récord en captación de visitantes previstos.
+Alejandro Hurtado, asevera que “ExpoNorte no se realiza sola, todo es gracias al apoyo incondicional de las instituciones, expositores tradicionales y nuevos en esta feria, que es catalogada como la segunda más importante a nivel departamental y sin duda la más importante del Norte Integrado”. El 65 % se dedica al rubro agropecuario, siendo el epicentro de la producción donde se destaca la caña de azúcar, soya y leche.
+El CIAT (Centro Internacional de Agricultura Tropical) hace parte de CGIAR, la mayor alianza mundial de organizaciones de investigación agrícola para el desarrollo. Como parte de sus 15 centros miembros, participamos en los siguientes Programas y Plataformas de Investigación de CGIAR
+Si bien la tecnología y el análisis de datos han revolucionado la agricultura en los países de altos ingresos, los agricultores de las naciones de bajos ingresos a menudo han quedado excluidos. Las nuevas herramientas desarrolladas por los centros del CGIAR están reduciendo la brecha digital para los pequeños agricultores. Estas herramientas están ganando cada vez más notoriedad internacional más allá del campo de la agricultura, como lo demuestra un reciente premio internacional.
+El Premio Aplicaciones Innovadoras en Analítica (IAAA, en inglés) 2020 fue otorgado al Centro Internacional de Mejoramiento de Maíz y Trigo (CIMMYT), a la Alianza de Bioversity International y el CIAT, y al Instituto Internacional para los Análisis de Sistemas Aplicados (IIASA, por sus siglas en inglés). Sus herramientas, que ayudan a los agricultores a aumentar la productividad, utilizan prácticas más sustentables y acceden a los mercados, superaron las propuestas de compañías tecnológicas internacionales y universidades con proyectos aplicados a diversos campos.
+sustentable de maíz y trigo.El equipo multidisciplinario desarrolló un sistema para rastrear más de 500 variables durante el ciclo de cultivo en cada parcela monitoreada. Estas variables se analizan posteriormente en combinación con datos geográficos, meteorológicos y de mercado obtenidos de fuentes públicas de información. Los analistas de datos e investigadores extraen información de estas bases de datos para encontrar correlaciones o patrones que ayudan a identificar factores limitantes y las mejores prácticas de manejo para cada parcela.
+Los análisis resultantes alimentan una aplicación llamada AgroTutor —disponible para Android e iOS— que ofrece información gratuita a los agricultores, incluido el potencial de rendimiento histórico, puntos de referencia locales, ventanas de oportunidad, prácticas agrícolas recomendadas y estimación de precios de alimentos y materias primas.
