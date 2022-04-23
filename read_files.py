@@ -38,15 +38,17 @@ def clean_tokenize(texto):
     return(nuevo_texto)
 
 def get_data(path) -> pd.DataFrame:
+    dir_list = [i for i in os.listdir(path)]
     x = []
-    df = pd.DataFrame()
-    files = [i for i in os.listdir(path) if i.endswith(".txt")]
-    for file in files:
-        with open(path+file,"r") as f:
-            x.append(clean_tokenize(f.read()))
-    df['clean_text'] = x
-    df['filename'] = files
-    df['filename'] = df['filename'].apply(lambda x: x[:-4])
+    for dir in dir_list:
+        files_dir = [i for i in os.listdir(path+'/'+dir+'/')]
+        for file in files_dir:
+            with open(path+'/'+dir+'/'+file,"r") as f:
+                texto = f.read()
+                salida = [texto,dir,file]
+                x.append(salida)
+    df = pd.DataFrame(x,columns = ['document','topic','file'] )
+    df['clean_text'] = df['document'].apply(clean_tokenize)
     return df
 
     
