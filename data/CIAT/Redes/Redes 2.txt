@@ -1,0 +1,743 @@
+Palmira (Colombia), February 14, 2019 — AGROSAVIA, Colombia’s leading not-for-profit organization for agricultural research and technology transfer, the International Center for Tropical Agriculture (CIAT) and the International Maize and Wheat Improvement Center (CIMMYT) have signed a five-year agreement that aims to boost maize production.
+The new project will develop maize varieties adapted to the country’s farming conditions, and will promote sustainable intensification technologies and practices among Colombian farmers.
+
+“We should be able to release the first high-yielding maize variety for Colombia in three years”, said Bram Govaerts, CIMMYT’s director of Innovative Business Strategies and regional representative for the Americas.
+
+To achieve this goal, CIMMYT will provide AGROSAVIA’s breeding program with two thousand advanced lines, developed by combining native maize from Colombia with conventionally improved varieties.
+
+“At both institutions we believe that Colombia can increase production to close the big gap between domestic maize consumption and imports”, said AGROSAVIA’s Executive Director, Juan Lucas Restrepo. “With this agreement, we will have more powerful local capacities and once again a Colombian maize research program for Colombians”.
+
+Although experts agree that Colombian farmers could potentially produce more than 10 tons per hectare, the country’s average yield is currently 3.6 tons per hectare.
+
+“With this agreement, the sister CGIAR centers CIMMYT and CIAT give a first step in the implementation of Maize for Colombia, an ambitious plan that will sustainably increase Colombia’s maize output by building on the learnings and achievements of a successful project implemented in Mexico called MasAgro,” said Govaerts.
+
+Colombia’s Minister of Agriculture and Rural Development, Andrés Valencia, CIAT’s Director General, Rubén Echeverría, Juan Lucas Restrepo, and Bram Govaerts participated in the launch ceremony for the new agreement, which was signed at CIAT’s headquarters.
+
+In the field of natural resource management (NRM), which emerged as a new integration domain in the agricultural sciences, participatory research is conceptually and operationally still in its infancy and a range of activities are
+labeled ‘participatory research’. The paper aims at shedding some light on this confusion. Based on a review of literature and internet sites, it provides an overview of the CGIAR’s current NRM research practice, analysing the
+impact orientation, research foci, the pathway/strategy to impact and the role of participatory research. The paper also offers a framework which helps to differentiate approaches to innovation development and to ‘unpack’ the
+blurred concept of ‘participatory research’. Three prototypical approaches to innovation development and their respective attributes are described and used to interpret current practice:
+According to Ben-David (1971, in Janssen and
+Goldsworthy, 1996) the agricultural sciences can be
+considered to be a ‘quasidiscipline’, as research topics
+are defined not by the internal state of the field (as in
+disciplines such as physics, mathematics, biology, etc.)
+but rather by problems defined outside of the field.
+Given that the problems are real-life phenomena with
+many dimensions, a multidisciplinary research approach
+is often needed to address them adequately. If new
+problems occur, different disciplines may be integrated
+to resolve them. In the last 30 years different integration
+domains have been pursued in the agricultural sciences:
+‘By the early 1960s farm management was a very
+important domain. It included farm economics,
+engineering, planning, and home economics. By the
+early 1970s…crop ecology became an important
+integration domain, including disciplines such as
+physiology, pathology, entomology, genetics, and
+agronomy. …From the mid-1970s to the mid 1980s
+farming systems research was a prominent integration
+domain…. By 1985 sustainable production had become
+a major integration domain…. It has now been
+redefined as sustainable natural ecosystem
+management with a larger role for disciplines such as
+geography, meteorology, ecology, hydrology, and
+sociology’ (Janssen and Goldsworthy, 1996:264).
+Obviously, complexity has increased considerably and
+‘new’ approaches, concepts and theoretical perspectives
+are needed.
+Janssen and Goldsworthy (1996) argue that the
+emergence of new domains depends on two critical
+factors: (1) an understanding of the interrelations
+between problems and the ability to deal with these
+interactions in the research methodology, and (2) public
+concern about major issues. Indeed the emergence of
+‘natural resource/ecosystem management’ (NRM) as a
+domain in international agricultural research is
+paralleled by the appearance of new tools and
+instruments for data storage and processing such as
+geographic information systems and modelling. At the
+same time, worries about food production and global
+hunger have been modified by increased public
+concern about the rapid deterioration of the Earth’s
+ecosystems (particularly since the 1992 Earth Summit
+in Rio) and increasing levels of poverty.
+In response to these worldwide concerns, and in
+recognition of the fact that agriculture depends on and
+affects the natural resource base1 (often causing siteeffects and environmental externalities), and competes
+and interferes with other sectors using natural resources,
+the international agricultural research community has
+broadened its research agenda (Janssen, 1995). With
+new thinking on issues such as sustainability and
+poverty alleviation the CGIAR has altered its mission
+from a primary focus on agricultural productivity and
+commodity research to one that encompasses a more
+‘integrated natural resource management’ (INRM)
+perspective (TAC, 2001; INRM-Group, 1999, 2000).
+The term INRM first entered the CGIAR’s vocabulary
+through a study on priorities for soil and water research
+(TAC, 1997), which called for an ‘integrated’ approach
+to natural resource management. It was suggested that
+‘INRM can be defined as the responsible and broadbased management of the land, water, forest and
+biological resources base – including genes – needed
+to sustain agricultural productivity and avert
+degradation of potential productivity’. Definitions of
+the term INRM are still evolving. The CGIAR’s InterCenter working group on INRM current definition is
+that ‘INRM is an approach to research that aims at
+improving livelihoods, agroecosystem resilience,
+agricultural productivity and environmental services….
+It aims to augment social, physical, human, natural
+and financial capital. It does this by helping solve
+complex real-world problems affecting natural
+resources in agroecosystems’
+2 . Basically, NRM research
+claims to take into account various issues beyond
+classical agronomy: It emphasises spatial and temporal
+scales and interdependencies, on-site and off-site
+effects, trade-offs of different management options, the
+need to involve a wide range of stakeholders – often
+with conflicting interests – in collective action (Probst,
+2000). Equally as important as technical skills and
+knowledge about biophysical processes, is the social
+component, i.e. negotiation of rules and sanctions,
+policy formulation, organisational development, land
+use planning, conflict and information management.
+According to Sayer and Campbell (2001) ‘research needs
+to embrace this complexity… by redirecting the
+objectives toward enhancing adaptive capacity, by
+incorporating more participatory approaches, by
+embracing key principles such as multi-scale analysis
+and intervention, and by the use of a variety of tools
+(e.g. systems analysis, information management tools,
+impact assessment tools).’ While the multifaceted nature
+of INRM is acknowledged, it is also recognised that international agricultural research centres (IARCs) –
+whose NRM research approaches are discussed in this
+paper – cannot deal with all the issues. They tend to
+focus on natural resources for the production of crop,
+livestock, forest and fish outputs that have impacts on
+poverty reduction and food security (TAC, 2001), e.g.
+integrated water and watershed management, social
+forestry, living aquatic resource management, soil
+management, etc.
+As human activity is the major destructive force in
+nature, improving natural resource management
+primarily requires changing human behaviour at
+‘grassroots’ level (Röling, 1994, 1996, 2000). Today it
+is widely agreed that local people’s perspectives need
+to be at the centre of research efforts for development
+and that innovations need to be ‘owned’ by the local
+land users, if changes in decision-making and behaviour
+leading to impact are to be achieved. Such ownership
+can be created effectively through development and
+implementation of innovations by local people
+themselves in cooperation with outsiders (Hagmann
+and Chuma, 2002). Over the last few decades, a wide
+variety of participatory research (PR) approaches,
+concepts and methods has evolved. However, it is still
+not yet well understood which types of approaches
+are useful for what kind of research questions, goals
+and contexts. Especially in the field of INRM,
+participatory research is conceptually and operationally
+still in its infancy and a wide range of distinctly different
+activities is labelled ‘participatory research’.
+This paper aims at shedding some light on this
+confusion. It analyses current applications of
+participatory NRM research in international agricultural
+research (conducted by IARCs and partners), their
+weaknesses and sources of inefficiencies. An attempt
+is made to build a conceptual framework for
+differentiating approaches to help NRM research
+managers and practitioners analyse their research
+context, and make more informed decisions in
+designing their research approach. Finally some options
+and challenges for improving the quality and relevance
+of NRM research are proposed. The paper is based on
+a review of literature and internet sites, and on the
+authors’ experience gained from a variety of CGIARrelated strategic planning workshops as well as their
+involvement in programmes between 1996 and 2003.
+It aims to present critical and constructive thoughts to
+stimulate discussions among NRM researchers and
+practitioners.
+2 CURRENT PRACTICE IN NRM
+RESEARCH
+Over the past 30 years, the international agricultural
+research community has significantly contributed to
+raising agricultural productivity, particularly through
+its commodity research and germplasm improvement.
+An expansion of the goals of publicly funded
+international agricultural research towards poverty
+reduction, food security and environmental
+sustainability have increased the complexity of the
+matter. Reductionist commodity research can no longer
+deal with this complexity and a reorientation towards
+INRM and farmer participatory research is gradually
+being accepted. This change was also fostered by
+donors who demanded more visible impacts through
+development-oriented research, especially in
+smallholder farming.
+The following section provides a brief overview of
+the state of the art in the relatively young NRM research
+practice. The analysis of recent cases addresses four
+major issues:
+(1) Impact orientation. What kind of impact do NRM
+research projects strive for?
+(2) Research focus. What is their research focus and
+who are the intended beneficiaries?
+(3) Pathway/strategy to impact. What is their pathway
+or strategy to achieve an impact at the local level?
+(4) Role of Participatory Research. What is the role of
+PR in the project strategy?
+The following description and assessment of the state
+of the art is based on a review of literature and internet
+sites, insights gained from conceptual workshops and
+project evaluations, and a study of 53 research projects
+within the CGIAR and its partners (Fernandez, 1999).
+The latter included participatory research projects
+covering a broad range of topics in NRM (e.g. soil and
+water management, crop/livestock management,
+agroforestry, integrated pest management, conservation
+of biodiversity, watershed management, etc.). It was
+carried out during 1999 by the CGIAR Program for
+Participatory Research and Gender Analysis, using a
+questionnaire to which projects responded, mostly
+while attending international workshops on the topic
+(Fernandez, 1999).
+Impact orientation
+International agricultural research centres face an
+apparently paradoxical situation with regard to impact.
+Some donors want to see impact at the level of
+resource-poor farmers, while others emphasise that the
+mandate and comparative advantage of the IARCs is
+to conduct ‘strategic’ research and produce
+‘international public goods’ that can be extrapolated
+to other locations at the regional and global level.
+Basically all centres have responded to the ‘impact
+squeeze’ and incorporate highly aggregated
+development goals such as poverty alleviation,
+increased income, food security and sustainable
+resource use into their overall research objectives. Some
+projects have started engaging in larger scale extension
+and development activities (e.g. capacity building,
+organisational development, etc.), without necessarily
+integrating research functions as a continuing part of
+these development activities. This in turn is being
+questioned by actors who see strategic research as an
+‘upstream’ phase in the research-development
+continuum which does not imply an involvement of
+international researchers in participatory processes at
+the field level.
+The overall goals formulated for NRM research
+initiatives show that research managers tend to include
+different impact levels in one sentence without
+necessarily clarifying what exactly they want to achieve.
+Some projects3 put the natural resource system and technical improvements at the centre of perspectives, e.g.
+‘To increase farm productivity and arrest resource
+degradation due to land-use intensification through
+sustainable short fallow systems’ (International Institute
+of Tropical agriculture (IITA): Short fallow systems).
+‘Improve the food security and economic well-being
+of farmers through implementation of diversified and
+more efficient natural resource use and crop/livestock
+management options (International Crops Research
+Institute for the Semi-Arid Tropics (ICRISAT): Crop and
+livestock systems).
+Other initiatives put more emphasis on changes in
+the management strategies of local resource managers.
+These projects focus on research impacts that build
+local capacity for collective action, and foster people’s
+own efforts to improve management systems (adaptive
+capacity). This includes their ability to articulate interests
+and demand, to manage conflicts, etc. The following
+examples are from the International Center for Tropical
+Agriculture (CIAT) and the Center for International
+Forest Research (CIFOR):
+‘Enabling communities and organizations to plan
+collective action aimed at better management of
+resources in hillsides’ (CIAT: Community Management
+of Hillside Resources)
+‘Enabling local communities to achieve more
+sustainable and equitable management of forest
+resources and human well-being in a multi-stakeholder
+environment. Enhancing the ability of forest
+management systems to be self improving, which will
+require strengthening the process of management and
+policy making. The emphasis is on institutionalizing
+conscious learning.’ (CIFOR: Adaptive Co-Management
+of Forests)
+Though most IARC projects show a stronger impact
+orientation,4 the goals and objectives leading to the
+desired impact remain rather diffuse with no
+clarification of what research can realistically contribute.
+This is a general pattern observed in many research
+projects – participatory or non-participatory. ‘Hard’
+impacts related to physical, natural and financial capital
+and ‘soft’ impacts related to social/human capital are
+not clearly separated, even though they would require
+different strategies. This often results in a diffuse and
+unclear strategic orientation. Since a clear strategy is
+needed to connect research outcomes and development
+impacts it is difficult to imagine how tangible effects
+can ‘fall in place’ when the impact strategy is diffuse.
+This applies particularly to the complex environment
+in which NRM operates. Participatory NRM research
+particularly requires a strong impact orientation to guide
+a flexible and dynamic process of socio-technical
+development. The research products need to be derived
+clearly from the strategic orientation.
+Research focus
+While covering a broad range of topics, the analysis of
+NRM research projects revealed three major research
+foci:5
+(1) The development and assessment of technologies
+• e.g. to develop and promote productive and
+profitable alternative land use systems to slash
+and burn agriculture (Systemwide Program on
+Alternatives to Slash and Burn, ABS)
+(2) The generation of new theoretical insights into
+complex NRM systems to contribute to policy or
+management recommendations (policy research)
+• e.g. to identify and assess NRM problems within
+major land-use systems in ecoregions, to identify
+the driving forces behind key processes
+occurring within these land use systems at
+different spatial scales (ICRAF: Land use and
+agroecosystems dynamics)
+• e.g. analyzing and disseminating knowledge on
+the ways that collective action and property
+rights institutions influence the efficiency, equity,
+and sustainability of natural resource use (System
+Wide Program on Property rights and Collective
+Action, CAPRI)
+(3) Developing approaches for organisational/
+institutional innovation
+• e.g. to develop or identify a set of models,
+institutional arrangements, methods, tools and
+strategies to enable local communities to achieve
+a more sustainable and equitable management
+of forest resources (CIFOR: Adaptive CoManagement of Forests)
+• e.g. to develop and institutionalise effective and
+efficient approaches for sustainable INRM and
+enhanced productivity in the intensively
+cultivated highlands (African Highlands
+Ecoregional Programme, AHI)
+• e.g. adaptation of the farmer field school concept
+to improve livestock systems of the poor, starting
+with smallholder dairy enterprises (ILRI: Enabling
+access to innovation, International Livestock
+Research Institute)
+Basically, all centres work on the three research foci,
+and some projects (including, for instance, AHI and
+ABS) address more than one aspect. Though the
+majority of projects focus on technical innovations
+(improved varieties, farming practices, etc.), developing
+approaches for organisational innovations and local
+capacity building has increasingly gained importance
+as a focus of NRM research (Johnson et al., 2000). In a
+questionnaire survey (Fernandez, 1999), 88% of the
+responding projects said that small farmers and
+communities are supposed to be the beneficiaries of
+their research. However, the primary intended users
+of many research products (such as publications, GIS
+databases, decision-support tools, manuals and
+guidelines) were often other institutions, e.g. national
+agricultural research systems (NARS), non-government
+organisations (NGOs), extension and development
+agencies, as well as policy makers. enable farmers, especially smallholders, to make agriculture competitive and profitable as well as sustainable and resilient.
+
+CIAT conducts research for development in tropical regions of Latin America, Africa, and Asia.
+
+
+CIAT’s Pan-African Bean Research Alliance (PABRA) is Africa’s largest network of bean experts spanning 30 countries. Members of the network are responsible for breeding, evaluating, disseminating and safeguarding Africa’s largest collection of beans.
+
+
+The Technologies for African Agricultural Transformation (TAAT) is a program initiated by the African Development Bank (AfDB) as part of its Feed Africa Initiative.
+
+
+The main objective of the program is to improve the business of agriculture across Africa by raising agricultural productivity, mitigating risks and promoting diversification and processing in 18 agricultural value chains within 8 Priority Intervention Areas.
+
+
+
+This position shall be part of the Bean Commodity Technology Delivery Compact (CTDC) which is part of the Regional Technology Delivery Infrastructure (RTDI) of TAAT.
+
+
+The TAAT Bean Value Chain Technology Transfer Officer (TTO) has the responsibility of enhancing the capacities of seed
+and input suppliers and actors to sustainably, provide quality seed of improved high Iron bean
+(HIB) varieties and complementary inputs/technologies to small-scale farmers across the countries implementing TAAT Bean Value Chain Project.
+
+
+He/she will also be required to provide
+leadership and guidance in bean seed systems and technology transfer in conjunction with Bean Value Chain Coordinator and other CIAT staff
+
+Main duties and responsibilities include:
+
+
+Enhance the capacities (skills and knowledge) of seed producers / suppliers and good agricultural practices (GAPs) providers to promote, create and respond to demand for HIB
+varieties (seed and grain)
+Catalyze production, promotion, and marketing of quality seed of HIB varieties,
+Facilitate use, and support scaling up of innovative, varied and affordable market and
+dissemination options (e.g. viable seed packs and GAPs) to reach small holders farmers,
+particularly women.
+Build and sustain strong partnerships of various actors and institutional linkages to deliver on project ‘s expected results and targets
+Facilitate linkages between business development services providers and seed producers and suppliers and enhance capacity of the latter on specific areas e.g. seed business
+management, post-harvest and financial management.
+Document results, experiences, lessons learnt and case studies on the processes and
+achievements
+Support and contribute in the implementation of a project Monitoring and Evaluation (M+E) framework
+Manage and  
+
+ leverage additional resources for seed systems and dissemination of
+complementary technologies / inputs.
+To represent the project in relevant activities and forums
+To develop and submit projects reports (technical, financial and any other documents) as required by the project and donors
+
+The candidate shall have the following competencies, skills and experience:
+
+The candidate should have a Masters’ degree in seed technology, agronomy or Agribusiness
+development
+Should have at least 5 years practical experience in seed related areas and managing seed business .
+Excellent communication and interpersonal skills;
+Excellent written and verbal communication skills in English. A good working knowledge of
+French is desirable.
+Ability to work in a multi-disciplinary, multi-institutional, and multi-cultural environment and to motivate others
+Experience to engage and establish partnerships with public and private institutions and strategic stakeholders.
+Demonstrated ability to write, publish, and disseminate technical reports, success stories,
+and promotional materials; Organizational and business planning is an advantage. Terms of employment:The is a nationally recruited position and will be based at the CIAT Africa Regional Offices in
+Nairobi, Kenya. The contract will be for a two-year period, subject to probation period of three (3) months, renewable depending on performance and availability of resources. CIAT offers a multicultural, collegial research environment with competitive salary and excellent benefits; we believe that the diversity of our staff contributes to excellence.
+CIAT is an equal opportunity employer, and strives for staff diversity in gender and nationality. How to apply: 
+Applicants are invited to visit our website to get full details of the position and to submit their applications, clearly indicating position applied for as Ref: AO-1995 Bean Value
+Chain Technology Transfer Expert. Applications should be saved as one document using the candidate’s lastname, firstname for ease of sorting. Applications closing date: 4
+th May 2018 Please note that email applications will not be considered. Only short listed candidates will be contacted. For more information and job application details, see; International Center for Tropical Agriculture Vacancies
+Find jobs in Kenya. Jobs - Kenya jobs. Search our career portal & find the latest Kenyan job positions, career opportunities & jobs in Kenya.Jobs in Kenya - banking jobs, IT jobs, accounting jobs, NGO jobs, business administration, ICT, UN jobs, procurement jobs, education jobs, hospital jobs, human resources jobs, engineering, teaching jobs, and other careers in Kenya.
+Find your dream job from 1000s of vacancies in Kenya posted and updated daily  TT in agricultural chains is a complex social phenomenon in which the capabilities,
+interaction, and decision making of agents linked to the processes of generation, diffusion,
+and use of technology [1] are a critical factor to guarantee its success. These technological
+developments from universities and private companies simplify agronomic production
+schemes, increasing yields and the specialty of the processes [2]. The American model of
+technology transfer developed in the 1960s with the introduction of corn hybrids [3], and
+it examined some peculiarities: (1) innovation was focused on a product; (2) researchers
+developed advances with a focus on defined objectives (e.g., development of a genetic
+variety with increases in productivity and yield); and (3) extension processes followed a
+top-down approach in which farmer groups used the improvements through technology
+packages disseminated by extension services.
+A second generation transfer model called the “feedback model” (see Figure 1) seeks
+to improve the efficiency of the process, understanding its complexity from a top-down
+perspective [4], adding feedback elements between the parts, which reduce the gaps
+between the technology developer and its user, turning the latter into an active subject of the This model presents a reciprocal relationship between public research entities as
+generators of technology and private entities as recipients of technology; TT activities
+involve both public and private entities, and their success depends on the development of
+technological products with market interest for effective transfer and on the absorption
+capabilities of the private firms’ technologies [5].
+In the case of the technology transfer model implemented by the National Federation
+of rice growers, called AMTEC, it is of interest to know how the transfer process develops
+under these critical factors and how it impacts the reduction in competitiveness gaps in rice
+production chains. The competitiveness of Colombia’s rice production chain is affected by
+the low use of agronomic crop management technologies, technology transfer by extensions
+and integration between research, development, and extension, among others [6]. This
+problem, and the reduction in producer prices due to the free trade agreement (FTA) with
+the United States and the decrease in yields as a result of climate variability, originate with
+the National Federation of Rice Growers Program AMTEC, which seeks to implement production technologies that increase yields and reduce production costs while implementing
+good cultivation practices to preserve the environmenttional Federation of Rice Growers Program AMTEC, which seeks to
+implement production technologies that increase yields and reduce production costs
+while implementing good cultivation practices to preserve the environment [6]. The wide
+adoption of these practices and technologies has reduced the yield gaps by implementing
+precision agriculture and a group of techniques that allows the optimization of the use of
+seeds, fertilizers, and agricultural chemicals [7]. The analysis of technology transfer processes in agricultural production chains from the bottom-up perspective shows how the
+dynamics of interaction are established as well as the decision making in the processes of
+generation, diffusion and use of emerging technologies, as well as the design of policy
+strategies that improve the efficiency of the transfer processes of emerging technologies
+that impact productivity from a sustainability approach. This theoretical framework addresses three aspects that influence TT processes: 1) the interaction among agents in the
+processes of generation, diffusion, and use of technology; 2) the user-centred approach to
+decision-making; and 3) technological capabilities (TC).
+The technological innovation system (TIS) approaches interaction between agents',
+which presents an emphasis on the diffusion and use of a particular technology rather
+than on its generation [8]. This interaction does not occur spontaneously in a geographic
+environment. In contrast, it depends on the decisions and internal characteristics of the
+agents involved in the process; that is, it should not be assumed that the existence of a
+technology implies that it is known and used effectively [9].
+The second aspect has been developed in the specialized literature from the approach
+of theoretical models of acceptance of technology such as the theory of planned behaviour
+(TPB) [10] and the technology acceptance model (TAM) [11]. These models analyse the
+rules or behavioural factors that guide decision making around the use of technology
+Figure 1. Technology transfer model: “feedback model” (source: prepared by the authors based on [4]).
+This model presents a reciprocal relationship between public research entities as
+generators of technology and private entities as recipients of technology; TT activities
+involve both public and private entities, and their success depends on the development of
+technological products with market interest for effective transfer and on the absorption
+capabilities of the private firms’ technologies [5].
+In the case of the technology transfer model implemented by the National Federation
+of rice growers, called AMTEC, it is of interest to know how the transfer process develops
+under these critical factors and how it impacts the reduction in competitiveness gaps in rice
+production chains. The competitiveness of Colombia’s rice production chain is affected by
+the low use of agronomic crop management technologies, technology transfer by extensions
+and integration between research, development, and extension, among others [6]. This
+problem, and the reduction in producer prices due to the free trade agreement (FTA) with
+the United States and the decrease in yields as a result of climate variability, originate with
+the National Federation of Rice Growers Program AMTEC, which seeks to implement production technologies that increase yields and reduce production costs while implementing
+good cultivation practices to preserve the environment [6]. The wide adoption of these
+practices and technologies has reduced the yield gaps by implementing precision agriculture and a group of techniques that allows the optimization of the use of seeds, fertilizers,
+and agricultural chemicals [7]. The analysis of technology transfer processes in agricultural
+production chains from the bottom-up perspective shows how the dynamics of interaction
+are established as well as the decision making in the processes of generation, diffusion
+and use of emerging technologies, as well as the design of policy strategies that improve
+the efficiency of the transfer processes of emerging technologies that impact productivity
+from a sustainability approach. This theoretical framework addresses three aspects that
+influence TT processes: (1) the interaction among agents in the processes of generation,
+diffusion, and use of technology; (2) the user-centred approach to decision-making; and
+(3) technological capabilities (TC).
+The technological innovation system (TIS) approaches interaction between agents’,
+which presents an emphasis on the diffusion and use of a particular technology rather
+than on its generation [8]. This interaction does not occur spontaneously in a geographic
+environment. In contrast, it depends on the decisions and internal characteristics of the
+agents involved in the process; that is, it should not be assumed that the existence of a
+technology implies that it is known and used effectively [9].
+The second aspect has been developed in the specialized literature from the approach
+of theoretical models of acceptance of technology such as the theory of planned behaviour
+(TPB) [10] and the technology acceptance model (TAM) [11]. These models analyse the rules
+or behavioural factors that guide decision making around the use of technology [12,13]
+from a user-centred approach. However, they exclude generators and intermediaries as
+active agents of the process The third aspect relates to the TC of the agents (i.e., generators, intermediaries, or
+users) immersed in the TT process. TC is understood as the knowledge and skills required
+to acquire, use, absorb, adapt, improve, and generate innovative technologies [14,15]. From
+this perspective, the agents of a system can be characterized and represented according
+to their TC, and it can be established which agents exhibit characteristics of generators,
+intermediaries, users, and/or its set. It should be noted that TC gives agents particularities
+of relationship and intensity of interaction, which impacts on innovative performance [16].
+This is how the asymmetries in the TC of the agents mean that the process of transferring
+and adopting technologies varies in its results.
+Based on the characteristics of the TT phenomenon, the use of ABM has been defined
+by its usefulness to simulate real-world problems with greater precision [17] and to consider the characteristics of the agents and their heterogeneity in contrast to mathematical
+models [18]. The ABM allows studying the emergence of macro-behaviours because of
+interactions at the micro-level [19,20] of autonomous agents in the environment [20]. The
+ABM has been used to study complex social phenomena like adoption dynamics, technology adoption, marketing, social networks, and segregation [21], allowing the establishment
+of scenarios that facilitate the understanding of phenomena through time, leaving aside the
+static gaze of other analytical frameworks. The ABM analyses how the system behaviour is
+affected by the adaptative behaviour of individual agents and how they make decisions
+that change their state in the environment [22]. The decision making in the technology
+transfer process has been explored in the specialized literature, and different criteria that
+inhibit or drive decision-making processes have been found; these can be parameterized
+under optimization algorithms [23–26].
+2. Rice Production Chain in Colombia
+The National Federation of Rice Growers (Fedearroz—Federación Nacional de Arroceros) is a rice production guild founded more than 70 years ago in the city of Ibagué and is
+present in all rice-producing areas of the country. It is a regional scheme, where it is offered
+to the producers, with trade-union guidance and an offer of commercial technical services.
+Farmers join and, depending on their area of cultivation, contribute 200 Colombian pesos
+per hectare (USD 0.05). Currently, it has 16 thousand affiliated producers nationwide.
+These affiliates are distributed in four rice-growing areas: the dry Caribbean area
+(Santanderes and Cesar); the humid Caribbean (Córdoba, Sucre, and Bolívar); the eastern
+plains zone (Meta, Casanare, and Arauca); and the central zone (Tolima, Huila, and Valle
+del Cauca), in which irrigation or rainfed production systems are implemented. In the
+case of the department of Tolima, there are different subzones such as Saldaña and the
+Ibagué Plateau, among others, where irrigation cultivation is implemented due to the
+edaphoclimatic conditions and soil.
+In Colombia, around 500 thousand hectares are planted and produce close to
+2.50 million tonnes per year. For Tolima, the sowing area is equivalent to 110 thousand
+(for 6 thousand producers), while, in the Ibagué plateau (included by the municipalities of Ibagué, Alvarado, and Piedras), 17 thousand hectares are sown concentrated in
+212 producers [27]. The structure of the producers in the department of Tolima corresponds
+to a more entrepreneurial profile due to the level of training, which makes the transfer
+strategies vary. The production systems are irrigated and rainfed, specifically for Tolima.
+Fedearroz has experimental centres that guide their research to the specific needs of
+the area; this research is participatory through committees that are elected every two years
+(10 producers represent the rice-growing area).
+2.1. Mass Adoption of Technology Program (AMTEC)
+Fedearroz’s AMTEC, launched in 2012, is a technology transfer model, based on
+sustainability and social responsibility for rice. As a technological strategy, it searches
+for the competitiveness of the rice agricultural chains by increasing yields and reducing
+production costs in productive agricultural systems, from the adoption and use of technologies  Diagnosis of the Problems for Each Producing Area
+Diagnosis processes are conducted in each production area to identify the limitations
+of productivity, analyse the profitability of the company, evaluate the production costs
+and quality of the product obtained, and establish the inventory of technologies (i.e.,
+machinery, equipment, and implements) and degree of knowledge about the crop. Based
+on these diagnoses, the model’s second stage begins, which consists of identifying allies
+and technologies to address the most relevant problems for producers according to the
+productive zone.
+2.1.2. Identification of Allies and Technology
+Due to the different experimental centres that Fedearroz has in the different producing
+areas and their specific conditions at the edaphoclimatic level, it has managed to capture
+the interest of technology developers to carry out validation processes in Colombia, which
+has allowed for collaboration with entities such as the International Center for Tropical
+Agriculture (CIAT) and the International Rice Research Institute (IRRI) in different projects
+as a strategic ally. Regarding the development of technologies, two strategies are considered:
+the first aims to develop technologies based on the current capacities of Fedearroz such as:
+• Seeds
+• Platform for fertilization Sifaweb: http://sifa.fedearroz.com.co/agricultor accessed
+on 4 July 2021
+• Platform of climatic stations http://www.climafedearroz.com/s accessed on 4 July 2021
+The second strategy is oriented to collaboration with entities that want to validate their
+developments; so, the potential for use, implementation, and impact on the cultivation
+of said development is evaluated for subsequent transfer and massification. In order to
+prioritize available technologies by international partners, selection criteria are set, such as
+costs, ease of use, and utility, by the producer.
+2.1.3. Validation of Technologies in Producing Areas
+The AMTEC program seeks to offer agricultural producers technologies fully validated
+to the growing conditions of the different producing areas of the country. Representative
+pilot areas are selected for traditional production models. Other selection criteria for farms
+according to [29] are:
+• The farmer has the technological capacity.
+• Leadership Communication with other farmers.
+• Road infrastructure.
+• Homogeneous area in the production system.
+• Close to capitals.
+• Entrepreneurial farmers of tradition.
+• Own machinery.
+• Farms located under similar climatic conditions.
+• Different sizes.
+• Availability of weather stations.
+• Presence of support institutions (irrigation districts, research centres).
+The AMTEC program requires farms to keep records of the tasks that are executed
+using the Computerized Administration System for Rice Farms (SACFA–Sistema de administración de fincas arroceras). Each of those involved must take part in each activity
+that will be performed on the farm, to have ongoing supervision and ensure that the work
+is conducted.
+2.1.4. Massification of Technology
+The barriers identified in the technology transfer processes for the rice chain are:
+resistance to change, disbelief in the use and application of technology, and impact productivity by producers. In the same way, according to the cultural level of the person and the
+geographic region, there are more traditionalist areas, specifically on the Ibagué plateau
+where they are more open to change, due to their cultural level and level of training.
+2.1.5. Monitoring and Extension
+The monitoring and extension of the AMTEC program is conducted in pilot farms for
+periods of no less than three years to evaluate the change processes sequentially. In the
+second year, the pilots are extended to all rice-growing areas with constant monitoring and
+promotion of areas that have already adopted the technologies. The model is then based
+on the producer–producer transfer, all of which must be developed in a period of no more
+than five years [28].
+Technology transfer to rice farmers linked to Fedearroz is measured through technical
+and social monitoring. From a technical viewpoint, the production costs and yields are
+reviewed, which are crossed with climatic variables and market prices, in addition to
+surveys and the rice census conducted by the National Statistics Department (DANE–
+Departamento Administrativo Nacional de Estadística), and the impact of the use of
+technologies was established including its sustainability over time.
+2.2. Precision Agriculture in Rice Cultivation (AMTEC 2.0 Program)
+The AMTEC program satisfaction is perceived as “good” by more than 60% of the
+producers. However, not all producers in the country have implemented the AMTEC
+program [30]. The implementation and transfer of the different technologies of the AMTEC
+program, according to the phenological stages of the crop, have reduced the costs per tonne
+of dry paddy rice, from 364 USD/tonne in 2012 to 273 USD/tonne in 2019 [31]. Likewise,
+for a measurement between 2012 and 2013, it was evidenced that when comparing the
+pilot lots with AMTEC technologies versus traditional producers, the yield increased on
+average by 1.27 tonnes per hectare (+23%) and costs reduced by USD 119 per hectare
+(−26%). Thanks to these satisfactory results, achieved at a competitive level with the
+implementation of the AMTEC program, precision technologies have been validated and
+adjusted to be implemented within AMTEC 2.0. The AMTEC 2.0 model combines the use
+of agroclimatic information and precision agriculture to promote adoption by farmers of
+technology options more appropriate to environmental conditions [32].
+It is necessary to include technologies that allow producers to make correct and
+efficient decisions [31], which is why in 2018 the precision agriculture program was implemented, identifying the experience of countries such as the United States, Argentina, and
+Brazil to adjust to the needs of the Colombian producer [33].
+Different technologies have been evaluated in the 2015–2020 period by Fedearroz,
+such as:
+• Satellite images by the Normalized Vegetation Index (NDVI).
+• Performance sensors.
+• Unmanned aerial vehicles (UAVs).
+• Sowing monitors (seed drop and fertilizer census per line).
+• Multiple Inlet Rice Irrigation (MIRI) precision irrigation.
+The objective was to identify, validate, and adjust the technologies and tools that
+significantly benefit the sector. The research shows that the agronomic efficiency improves
+when precision agriculture systems are added to an agricultural activity [33]. In this
+way, the economic aspects must be evaluated regarding the return on investment for
+the implementation of this type of system, in addition to the variation that may occur
+between places and types of production systems. Fedearroz has identified the advantages
+of implementing precision agriculture systems:
+• Work with real area data.
+• Efficient use of inputs.
+• Characterization by environment of the batches.
+• Efficient decision making.
+• Improved productivity.
+• Precision handling.
+3. Theoretical Framework
+The model adopted a TIS perspective, understood as an innovation system whose
+main objective is to influence the process of diffusion of innovative technologies for local, regional, national, and international industry, including small- and medium-sized
+companies so that they can identify, acquire, and use innovative technologies before their
+competitors [34]. TIS are multidimensional (i.e., actors, networks, and institutions), and
+the range of participating institutions is wide. As a consequence, heterogeneity and asymmetry in capabilities have a high influence on how interaction networks are created for the
+generation, development, transfer, and use of technologies [1].
+The presence, functionality, and state of development of the elements that make up
+the STI determine the basis for regional differences in the TT process [35]. Similarly, it
+has been highlighted that cultural, geographical, and political differences are important
+when effective communication must advance TT processes [34]. From this perspective, the
+systemic interdependencies between these elements generate different synergies [8] in the
+STI, for the development of the TT process and, therefore, the effects on its efficiency.
+TT occurs in a scenario where the generator, user, and technology are protagonists,
+recognizing that there are others, such as diffusers or intermediaries. The participants
+in the TT process are usually heterogeneous, so the recipients of the technology have a
+different language than the generators [36]. Similarly, generators and users presented
+different perceptions of technology, resulting in a disorderly process that involves agents
+with different views about the value and potential use of technology [37].
+The complexity of the process itself is concentrated in the identification, evaluation,
+and prioritization of TT processes and strategies, due to the presence of different decision
+making agents, the qualitative nature of the process, and the existence of imprecision
+and uncertainty in making decisions [38]. Agents participating in TT make objective and
+subjective decisions regarding the use of technology, involving technical, structural, and
+behavioural aspects that affect the process [39]. The empirical evidence shows that the
+intermediaries–user or generator–user collaboration processes do not meet the expectations
+of the parties in 50% of cases [40], whereby the identification of the drivers of the success
+of the transfer process is a critical research topic [41].The specialized literature presents several theoretical models in the field of the diffusion and acceptance of information technologies, which is based on sociological studies
+performed by [3]. Each model postulates variables that attempt to explain the principles on
+which behaviours are established around decisions to adopt (or not) a technology from the
+users. These include the theory of reasoned action (TRA), the theory of planned behaviour
+(TPB), the diffusion of innovation theory (DIT or DOI), the unified theory of technology
+acceptance and use (UTAUT), and the technology acceptance model (TAM) [42].
+Among the applications of the theoretical models of acceptance of technology for
+agriculture are precision agriculture [42,43], mobile extension services [6], IoT technologies,
+and sustainable production strategies [44,45]. For sustainable production strategies, the
+results of the model show that the intention to adopt a certain clean production technology
+is strongly influenced by the understanding of the usefulness of the innovation itself. The
+opinion was influenced by “[o]ther relevant: fellow farmers, advisers, [and] other suppliers
+that are members of the chain” [44,45].
+The differentiated performance of the agents involved in the TT process are given
+by their knowledge, skills, competencies, and the method in which they exploit their
+resources. These capabilities allow them to participate efficiently in TT processes since
+prior knowledge and routines enable them to recognise the value of innovative technologies,
+assimilate them, and apply them for commercial purposes. The innovative technologies
+and knowledge then replace existing ones and enhance their competitive capabilities.
+Knowledge as a source of competitive advantage in highly dynamic environments
+with rapid technological change has been studied from various theoretical approaches,
+such as dynamic capabilities [46] or nuclear competencies [47]. The firm, which learns to
+use innovative technologies to adapt and improve them, and to create new knowledge [48],
+improves its ability to direct technical change and thus creates new competitive advantages that allow it to sustain itself in a market of high uncertainty leveraged by frontier
+technologies.
+According to [15], there are several ways to categorise the TC of organisations. These
+can be classified by complexity as basic (simple routines based on experience), intermediate
+(adaptive, based on search), and advanced (innovative, based on research). Similarly,
+this taxonomy includes three types of capabilities: investment, production, and linkage
+capabilities.
+For developing TT processes, it is necessary for the agents based on their role (i.e.,
+generators, intermediaries, users) to develop the TC of core, intermediate, and advanced
+complexity. However, these capabilities are asymmetrically distributed among the agents.
+That is, not all agents based on their role in the TT process present the same conditions for
+acquiring, utilising, absorbing, adapting, and generating innovative technologies. There
+may be organisations that are skilled at generating knowledge, but they do not have the
+capabilities to transfer it [49] and must establish relationships and interactions with other
+agents that have better dissemination capacities. Some factors that contribute to this activity
+are communications between those involved in training and managerial participation [50].
+Regarding the measurement of TCs, authors such as [51–53] have measured and represented these as vectors endowed with position and magnitude, characteristics representing
+the degree or level of the capabilities that an agent has acquired over time, facilitating
+understanding through the ABM how the agents of an innovation system accumulated or
+de-accumulated such capabilities. The model developed by [20] enables characterizing and
+differentiating the agents of an innovation system from TCs, which are associated with the
+functions of the generation, diffusion, and use that any innovation system must have as
+follows:
+• Function of knowledge and technology generation (research capability and development capability).
+• Function of knowledge and diffusion of technology (linkage capability).
+• Function of the use of knowledge and technology (production capabilities and marketing capability of the innovation). Therefore, it is necessary to address the phenomenon of transfer from novel approaches that enables the characterization and analysis of the different agents, networks,
+and interactions exhibited by TIS. In addition, to understand the mechanisms of transfer
+and decision making associated with the behaviour of the agents, the specialized literature
+shows an approach focused on analysis and individual action of the agents without considering a more systemic view based on their interactions, thus allowing the establishment of
+scenarios that make it possible to better understand the TT phenomenon and define adequate policies and strategies that improve the economic and innovative performance [16,54]
+of the transfer in a TIS.
+The evidence found in the literature presents several types of models that address
+emerging phenomena such as the TT of emerging technologies; among them can be found
+stochastic, deterministic, static, and dynamic models, including those that optimize and
+those that simulate. Such models are presented from different approaches and modelling
+paradigms; some have allowed the generation of theory [55], and others have facilitated a
+greater operationalisation of these systems. At the highest level of abstraction, the dynamics
+of systems are more global, of less detail, and involve agent-based simulation, whose focus
+is oriented to the treatment of problems of industrial, organisational, and population
+dynamics as well as negotiation nature, among others [56]. The ABM is corresponding to
+the "bottom-up" approach to modelling; there is no central planner that controls the system.
+On the contrary, the behaviour emerges from the interaction of individual agents at the
+aggregate level 
+Some simulation models presented in the specialized literature analyse TT processes
+from a technological learning approach for different sectors, as the basis of technical change
+and technological transition and where the simple existence of technology does not imply
+the adoption and use of the same [58]. The TIS literature focuses on understanding how
+innovation systems emerge around innovations such as electric vehicles, photovoltaic
+technology, and biogas .

@@ -1,0 +1,102 @@
+ver the last year, CIAT’s collaborative
+research resulted in major achievements,
+which are delivering tangible benefits for tropical
+regions today, while also pointing the way to a
+better tomorrow. This annual report describes
+some of the most important gains, emphasizing
+how we and our partners apply advanced
+knowledge and tools to improve crops, soils, and
+policies for the good of poor consumers and
+farmers across the tropics and subtropics.
+Leadership from within
+Looking to the future, we prepared a new
+strategy in 2013 (see the summary on pages
+4–7), which explains how our growing research
+team and networks will capitalize on past and
+current work to help make agriculture more
+eco-efficient in the years to come.
+To meet the central development challenges of
+our time – hunger and malnutrition, poverty,
+environmental degradation, and climate change
+– depends not just on individual achievement but
+on collective success. To succeed together, we
+need an approach to institutional leadership that
+galvanizes commitment, fosters innovation,
+promotes the development of new capacities,
+and catalyzes change through strong
+collaborative ties and networks.
+This is the kind of leadership we hope is evident
+in CIAT Strategy 2014–2020. It describes a wide
+range of innovative approaches through which
+the Center’s research will contribute to the
+development goals of the CGIAR Consortium
+– the global science partnership of which CIAT is
+a member. Our contribution includes four new
+strategic initiatives (page 6–7) that address
+emerging challenges and opportunities through
+pioneering efforts that integrate CIAT’s main
+research areas. These new initiatives have the
+potential to significantly influence future CGIAR
+research and expand its development impact.
+Ties that bind
+CIAT has focused in recent years on cultivating
+diverse collaborative arrangements, which are
+essential for building an eco-efficient future. The
+Center’s strategic partnership with the
+Colombian Ministry of Agriculture and Rural
+Development, for example, has yielded valuable
+results, which better enable our host country’s
+research organizations and producer
+associations to confront climate change
+Planning for Collective Success
+Message from the Board Chair and Director General
+(page 39) and achieve sustainable management
+of its vast savanna region (page 42).
+To derive similar benefits from other major
+partnerships, we signed an agreement to boost
+scientific exchanges with the Brazilian
+Agricultural Research Corporation (Embrapa)
+and also consolidated our cooperation with key
+institutions in eastern Africa, Peru (page 36), and
+Vietnam. In addition, CIAT staff engaged with a
+wide range of universities – especially in the
+Americas and Europe – aiming to unite our
+strengths with theirs in a concerted campaign to
+achieve global food security. Alongside these and
+other initiatives with national organizations, we
+also delivered on important commitments to the
+private sector (page 51) and international
+development agencies.
+Vigorous engagement with our donors (see the
+complete list on page 50) resulted in support for
+major new projects. These include research to
+promote climate-smart farming and restore
+degraded land in Africa, strengthen agricultural
+value chains in Southeast Asia and Latin
+America, and develop climate-resilient beans for
+smallholder farmers across continents.Big data
+CIAT’s work in diverse research areas has given
+rise to a formidable capacity for data collection,
+management, and analysis, including an ability to
+integrate different types of data across agricultural
+disciplines. New science and technology will give
+“big data” an even more prominent role in CIAT’s
+future research, with a sharp focus on boosting
+and measuring development impact. CIAT’s bioinformatics team has devised a new software tool that helps molecular geneticists
+circumvent a major cost bottleneck in the analysis of genomic data. Such analysis is critical
+for exploring genetic diversity and putting it to better use through gene discovery or the
+development of molecular markers that can speed crop improvement.
+Until now, even the most adept geneticist has needed to have a skilled specialist at her or his
+elbow when using new analytical tools to navigate the huge amounts of data generated with
+advanced sequencing technologies. But apparently, CIAT’s bioinformatics experts aren’t
+much concerned about working themselves out of a job.
+Their new tool – dubbed the Next-Generation Sequencing Eclipse Plug-in (NGSEP) – offers
+a fast, accurate, and user-friendly way to analyze data from high-throughput sequencing. In
+fact, it proved essential for creating the bioinformatics pipeline used to detect differences
+between sequenced samples and the reference genome in the cassava population genetics
+study described on page 12.
+Moreover, as reported in the journal Nucleic Acids Research, NGSEP has shown “superior
+accuracy and efficiency, compared with currently available packages,” when used to analyze
+sequencing data from research on yeast, rice, and humans. Based on these results, the
+authors confidently suggest that “NGSEP will become a strong support tool to empower the
+analysis of sequencing data in a wide range of research projects on different species.”

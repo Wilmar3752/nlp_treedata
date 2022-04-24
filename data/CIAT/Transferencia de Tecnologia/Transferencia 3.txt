@@ -1,0 +1,102 @@
+The Weather-rice-nutrient integrated decision support system (WeRise) is a web-based application that uses a seasonal climate prediction model and crop growth simulation model to improve livelihoods and productivity in rainfed rice areas. It provides advisories on the optimum sowing and fertilizer application timings using suitable varieties three months before the cropping season. This paper aimed to provide a narrative documentation of the experiences and key lessons learned during the implementation of WeRise technology transfer in Indonesia and the Philippines. Project implementers may not have all the answers as they develop and transfer the technology. Thus, technology transfer should be an ongoing process throughout the project life cycle.
+
+In Southeast Asia (SEA), where most rice is produced and consumed globally, rice security is inextricably linked with food security. Irrigated and rainfed lowland rice areas account for approximately 89% of the total rice area in this region. Indonesia and the Philippines are among the countries with the largest irrigated areas in SEA. Unfortunately, these irrigated areas are now facing multiple challenges of water scarcity, competing demand for water from non-agricultural sectors, land conversion, and high development and operational cost of irrigation facilities.
+
+Improving productivity in rainfed rice areas has become an important strategy to achieve food security. However, rainfed rice areas are often associated with poverty and characterized by low and unstable productivity due to variable conditions of the soil, topography, and weather .
+
+Weather variabilities make it difficult for farmers to determine when to sow and perform other farm activities. Without access to timely and relevant information, farmers usually rely on their empirical knowledge – previous experiences, indigenous knowledge or by simply observing daily weather before or during the cropping season.
+
+Unfortunately, these have become unreliable due to the impacts of climate change including erratic rainfall and increased occurrences of drought and other weather extremes. The rice research and development sector responded in cognizant to these challenges.
+
+The Weather-rice-nutrient integrated decision support system (WeRise) is a web-based application that uses a seasonal climate prediction model and crop growth simulation model. It aims to improve livelihoods and productivity in rainfed rice areas. It provides advisories on the optimum sowing and fertilizer application timings using suitable varieties three months before the cropping season. The advisories are based on the weather characteristics of the upcoming cropping season, crop growth development, soil characteristics, and farm management practices.
+
+With funding from the Ministry of Agriculture, Forestry and Fisheries of Japan and Japan International Research Center for Agriculture Sciences (JIRCAS), WeRise was developed by the International Rice Research Institute (IRRI) – Japan collaborative research project (IJCRP) and the IRRI – Philippine Rice Research Institute (PhilRice) – JIRCAS (IPJCRP) collaborative research project for the rainfed rice areas of Indonesia and the Philippines.
+
+Through WeRise, these projects hope to contribute to Sustainable Development Goal 2: Zero Hunger by transforming rainfed rice areas into a more sustainable production system through efficient water and nutrient use; and improving the climate change adaptation capacity of farmers by enabling strategic crop production decisions. The IJCRP and IPJCRP ended in December 2020 and March 2021, respectively.
+
+WeRise was transitioned to selected agencies of the national agricultural research and extension systems (NARES) in both countries. International agricultural research for development (AR4D) institutions may lack the mandate to monitor research investments and assess their impact after projects end. However, they are expected to achieve the development-oriented impact targets.
+
+Technology transfer pathways (TTPs) for WeRise in Indonesia and the Philippines were developed to facilitate impact by enabling systematic transitions and gaining the commitment of stakeholders to sustain project outputs beyond the project life cycle. Technology transfer is proactive, intentional and necessitates an agreement among the technology transfer agents and recipients. It involves a broad set of processes that covers the transfer of know-how, experiences and equipment among different stakeholders. It is different from technology diffusion which is a passive process and an intended outcome of technology transfer.
+
+Using the cases of WeRise technology transfer in Indonesia and the Philippines, this paper mapped the processes used to develop TTPs and discussed the technology transfer implementation experiences and lessons learned. While documenting that technology performance is important, documenting and sharing the implementation experiences as well could result in more innovations to improve the system.
+
+This paper aimed to provide a narrative documentation of the experiences and key lessons learned during the implementation of WeRise technology transfer in Indonesia and the Philippines. Project implementers may not have all the answers as they develop and transfer the technology. Thus, technology transfer should be an ongoing process throughout the project life cycle.
+
+It should involve co-development of the technology and constant feedback among the transfer agent (project implementers) and recipients (NARES in this study) from the beginning. Technology transfer implementation should involve understanding the local context, early and consistent stakeholder engagement, partnership building, flexibility and responsiveness, and a strategic communication plan.
+
+Developing technology transfer pathways (TTPs) at the onset is imperative. TTPs can enable systematic transitions and help gain the commitment of transfer recipients on project sustainability once donor funding has ceased. The TTPs developed for WeRise identified the institutions and their roles in three sub-pathways: technology development and adoption, capacity development, and policy influence.
+
+It coincides with Douthwaite et al’s causal model showing how agricultural research for development contributes to impact through the three interconnected pathways. Research projects are time-bound with an implementation period of three to five years. Development-oriented impact goals set by projects (i.e., poverty reduction, improved livelihoods) may be realized long after projects end. However, research institutions may lack the mandate and financial resources to monitor research investments after projects end.
+
+As such, Governments can play a crucial role by providing oversight and creating an enabling environment for the development of digital tools and in putting in place mechanisms to achieve impact after funding has ceased when projects end. The following were identified policy priorities from this paper:
+
+The Governments through the appropriate departments/ministries (e.g., Agriculture, ICT) can maximize the potential benefits of digital tools developed by various institutions (international research institutions, NGOs, micro enterprises) by conducting audits on their performance in collaboration with the lead agencies where they have been transitioned. There should also be repository or one platform where digital tools may be accessed. While integration of some tools may be ideal, standalone tools accessible in one platform would allow users menus to choose from.
+
+Since digital tools are data-driven and rely on good quality data, governments can also create an enabling environment to facilitate access to critical data requirements (weather and soil) that local institutions can provide. Some data are collected and maintained by agencies under different Ministries/Departments and may entail tedious administrative requirements before they can be accessed by projects. Government agencies may also benefit from the data that these projects acquire throughout their project life cycle. A mechanism for data exchange or data access after the projects end may be explored. Capacity building initiatives may also be jointly implemented by government institutions and projects.
+
+The IJCRP and IPJCRP encountered some difficulties in seeking farmer cooperators for its research experiments. Through other government programs, incentives may be given by the Government to farmers who participate in research experiments that are necessary for the development of digital agriculture tools. Validation experiments in government demonstration sites or accredited learning sites should be promoted if not institutionalized.
+
+Governments can also help in developing business models for these tools by linking the agencies. For instance, WeRise adopts a production and exchange business model where farmers can obtain information at the pre-production and production stage (Krishnan et al., 2020). Other preferred information of farmers such as market price and buyers are not provided. Linking the project implementers with other agencies and to existing digital tools could result to a more sustainable business model.
+Livestock raising is an important sector of the Colombian economy, which will face serious challenges in the next decade, including adaptation to and mitigation of climate change. Colombia must change the model of livestock production in a very short time by freeing up areas of pasture for other uses and focusing intensified livestock production in suitable zones. Despite the urgency and the magnitude of the required changes, only isolated small-scale initiatives exist. Colombia therefore has the challenge to scale-up these initiatives1, but at present it has no program designed to achieve this objective. We started by analyzing the policies, actors, and existing initiatives in Colombia. We then sought to understand the potential for and the limitations to scaling-up promising initiatives to face the challenges of climate change in the livestock sector. We identified the key elements from previous initiatives and classified them into the conceptual spaces identified in the theory of scaling-up. These are the spaces in matters of: policy, fiscal and financial matters, institutional capacity, learning, partnerships, and technical matters, emphasizing the importance of the technical dimension. Finally, we propose some elements for the design of Colombia's national program of livestock raising.
+
+Introduction
+The impacts of climate change on cattle raising are difficult to estimate because of the complexity of the relationships among climate, animals, pastures, water, and soils. Nevertheless, we know that these impacts will be related to animal well-being, the availability of food and water, and the occurrence of pests and diseases (Porter et al., 2014). High temperatures reduce animal intake and growth rates (André et al., 2011; Renaudeau et al., 2011) and heat stress in dairy cows increases mortality and economic losses (Vitali et al., 2009). The impacts of climate change on livestock diseases are uncertain and therefore difficult to predict (Mills et al., 2010; Tabachnick, 2010). But there is high confidence that the geographic ranges of livestock pathogens will change and that some pathogen species in the lowland tropics may become less diverse (Mills et al., 2010).
+
+The livestock sector worldwide supports about 1.3 billion producers and retailers and contributes 40–50% of agricultural GDP (Herrero et al., 2016b). Between 1995 and 2005, the livestock sector was responsible for greenhouse gas emissions of 5.6–7.5 GtCO2e/yr. Livestock accounts for up to half of the technical mitigation potential of the agriculture, forestry, and land-use (AFOLU) sectors through management options. These options include sustainable intensification of production, promoting carbon sequestration in rangelands and reducing emissions from manure as well as reducing the demand for livestock products.
+
+Colombia has 514,800 sites where livestock are raised, with 23.4 million head of cattle (ICA, 2017). Livestock raising contributed 1.4% of Colombia's gross national product (GNP) in 2017 and 21.8% of the agricultural GNP (FEDEGAN, 2018). It generates 6% of national employment and 19% of agricultural employment (FEDEGAN, 2018). Colombia has 34.4 Mha of pasture of which 27.9% are classified as unmanaged (DANE, 2014).
+
+Adapting to climate change is a major challenge. By 2100, climate change will reduce pasture growth thus reducing annual production of meat and milk, averaged over various scenarios, reaching in some regions values up to 24.9% compared with the base period, 1970–2010 (Tapasco et al., 2015). Considering mitigation, the livestock sector produced 26% of Colombia's total GHG emissions (258.8 MtCO2e/yr) in 2012 (IDEAM et al., 2016). This was 42% of the emissions of the AFOLU sector (158.6 MtCO2e/yr), with cattle producing 95% of the livestock sector's emissions. Cattle therefore offer the greatest potential for mitigation in the agricultural sector, estimated at 83% of the proposed national goal of emissions reduction of 13.46 MtCO2e/yr by 2030.
+
+Colombia has developed a series of initiatives, programs, strategies, and projects to address mitigation and adaptation to climate change. These include:
+
+• The National Strategy for Reduction of Emissions by Deforestation and Forest Degradation (Spanish acronym ENREDD+) (2009);
+
+• The Colombian Strategy for Low Carbon Development (Spanish acronym ECDBC) (2011);
+
+• The Financial Strategy to Reduce the Fiscal Vulnerability of the State in the Event of a Natural Disaster (2012);
+
+• The National Plan of Adaptation to Climate Change (PNACC) (2012), and
+
+• The National Policy of Climate Change (PNCC) (2016).
+
+In 2018, the Colombian government released a policy document on Green Growth (Crecimiento Verde) formulated by the National Economic and Social Policy Council (CONPES2). The policy seeks to increase the country's productivity and economic competitiveness over a 13-year timeframe to 2030. The policy emphasizes sustainable use of natural capital and social inclusion, consistent with Colombia's commitment to the Paris accord on climate change. It proposes to improve productivity of the agricultural sector by:
+
+• Strengthening capacity for productive agricultural structuring and sustainable agricultural production;
+
+• Managing and transferring technology for sustainable agricultural production;
+
+• Developing strategy to finance sustainable agricultural products; and
+
+• Strengthening the market to stimulae enterprises and products that leverage green growth.
+
+A major problem is that Colombia does not have an inventory of its initiatives on climate change and sustainable livestock production on which to prioritize actions under this policy. For example, Colombia made a formal commitment to the United Nations Framework Convention on Climate Change (UNFCCC) with its Intended Nationally Determined Contribution (INDC)3, accepted in July 2018. But we do not know which adaptation and mitigation measures in the livestock sector have the greatest potential for scaling-up. Nor do we know what barriers and limitations there might be in implementing them.
+
+We address these issues in this paper with a study on policies, value chain actors, and documents of relevant projects. We seek to identify the bottlenecks to scaling-up relevant measures and any gaps there might be in facing the challenges of climate change in the livestock sector of Colombia. We identify the key elements that a program should consider in scaling-up measures of adaptation and mitigation for the livestock sector in Colombia. In the analysis we include institutional and political aspects, financing, and capacity.
+
+Context of the Livestock Sector and Climate Change in Colombia: Opportunities and Challenges of Mitigation and Adaptation in the Livestock Sector
+Emissions from livestock come from several sources. In Colombia, deforestation for planting of pastures produces 45% of the total, enteric fermentation 32%, urine and manure of grazing animals 20%, and 4% from manure management (IDEAM et al., 2016). One-third of the departments produce three-quarters of the country's cattle emissions with Meta (14%), Caquetá (12%), and Guaviare (9%) departments producing the most. These departments have the largest areas of natural forest converted into pastures (deforestation).
+
+Colombia's goal for 2030 in its NDC, is to reduce GHG emissions by 66 MtCO2e/year, of which 13.46 MtCO2e/year will come from the agricultural sector. In the ECDBC, the government identified intensifying livestock raising and converting pastures to other uses as large-scale actions with potential for mitigation (UNIANDES et al., 2013). This has focused on intensifying livestock production in suitable zones through appropriate management of grasslands and silvopastoral systems.
+
+The El Niño-Southern Oscillation (ENSO) phenomenon in the last decade caused losses of US$1.8 billion in the livestock sector (FEDEGAN, 2018), killing 377,000 head of cattle, displacing another 5.6 million head, and damaging 16.1 Mha of pasture. Climate change predicts that ENSO will become more frequent and more severe (IPCC, 2014). The changes in temperature and precipitation predicted by the business-as-usual scenarios (A2 for milk and B2 for meat) will reduce milk and beef production in Colombia by 7.6 and 2.2%, respectively (Tapasco et al., 2015). Nariño, Caquetá, Casanare, Cundinamarca, and Córdoba departments will be affected most. The eastern plains (Arauca, Casanare, Meta, and Vichada departments) are one of Colombia's main regions of livestock production. Higher temperatures in this region will increase heat stress on cattle and decrease beef and milk production. A business-as-usual scenario (8.5 W m−2 more solar radiation by 2100, RCP 8.5) predicts 2.7% less beef and 2.1% less milk by 2040 (CIAT and CORMACARENA, 2018).
+
+Measures to address these issues improve indicators of Green Growth such as yield, system carbon balance, and land-use conflict (Table 1). Appropriate pasture management and silvopastoral systems are two large-scale measures that offer synergies in both mitigation and adaptation (UNIANDES et al., 2013; World Bank and DNP, 2014).
+Scaling-up is a process that explores different pathways to
+expand, adapt, and maintain policies, programs, or successful
+projects to reach a greater number of people (Linn, 2012). It
+is part of a wider process of innovation and learning. It makes
+it possible for more producers and a larger area of land to
+adopt a technology. Scaling-up usually starts from a pilot project,
+which, after being validated and evaluated, is replicated by other
+producers and regions. In doing so it generates greater impact,
+often by adapting technical and social elements to each context.
+During the scaling-up process, it is possible to make adjustments
+according to experiences and lessons learned. The scaling-up
+process also considers the long-term risks of reversion4 of
+the technology.
+There are seven components (called spaces) of the
+environment necessary to enable scaling-up (Linn, 2012):
+(1) policy; (2) fiscal and financial; (3) institutional capacity; (4)
+learning; (5) partnership; (6) political; and (7) others (markets,
+environmental, and cultural).

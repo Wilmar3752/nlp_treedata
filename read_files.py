@@ -3,7 +3,8 @@ import re
 from nltk.corpus import stopwords
 import pandas as pd
 import spacy
-import es_core_news_md
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 
 
 def clean_tokenize(texto):
@@ -15,9 +16,9 @@ def clean_tokenize(texto):
     lematizacion de palablas en español
     '''
     # lista de stop words en español
-    stop_words = stopwords.words('spanish')
+    stop_words = stopwords.words('english')
     # Cargando nlp para lematizar
-    nlp = es_core_news_md.load()
+    wnl = WordNetLemmatizer()
     # Se convierte todo el texto a minúsculas
     nuevo_texto = texto.lower()
     # Eliminación de páginas web (palabras que empiezan por "http")
@@ -31,9 +32,9 @@ def clean_tokenize(texto):
     nuevo_texto = re.sub("\\s+", ' ', nuevo_texto)
     # Tokenización por palabras individuales
     #nuevo_texto = nuevo_texto.split(sep = ' ')
-    nuevo_texto = nlp(nuevo_texto)
+    nuevo_texto = word_tokenize(nuevo_texto)
     # Eliminación de tokens con una longitud < 2
-    nuevo_texto = [token.lemma_ for token in nuevo_texto if len(token) > 1 if not str(token) in stop_words]
+    nuevo_texto = [wnl.lemmatize(token) for token in nuevo_texto if len(token) > 1 if not str(token) in stop_words]
     
     return(nuevo_texto)
 
