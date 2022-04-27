@@ -7,7 +7,7 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
 
-def clean_tokenize(texto):
+def clean_tokenize(texto,new_stopword):
     '''
     Esta función limpia y tokeniza el texto en palabras individuales.
     El orden en el que se va limpiando el texto no es arbitrario.
@@ -17,6 +17,7 @@ def clean_tokenize(texto):
     '''
     # lista de stop words en español
     stop_words = stopwords.words('english')
+    stop_words.extend(new_stopword)
     # Cargando nlp para lematizar
     wnl = WordNetLemmatizer()
     # Se convierte todo el texto a minúsculas
