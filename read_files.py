@@ -2,10 +2,29 @@ import os
 import re
 from nltk.corpus import stopwords
 import pandas as pd
-import spacy
+#import spacy
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
+from pdfminer.high_level import extract_text
+from deep_translator import GoogleTranslator
 
+def get_pdf(file):
+    pdf = extract_text(file)
+    text = re.sub('http\S+', ' ', pdf)
+    regex = '[\\!\\"\\#\\$\\%\\&\\\'\\(\\)\\*\\+\\,\\-\\/\\:\\;\\<\\=\\>\\?\\@\\[\\\\\\]\\^_\\`\\{\\|\\}\\~\\“\\º]'
+    text = re.sub(regex , ' ', text)
+    # Eliminación de números
+    text = re.sub("\d+", ' ', text)
+    # Eliminación de espacios en blanco múltiples
+    text = re.sub("\\s+", ' ', text)
+    return text
+
+
+def pdf_to_spanish(pdf):
+    traductor = GoogleTranslator(source='es', target='en')
+    n=4999 ## solo traduce 5000 caracteres
+    split = [traductor.translate(pdf[i:i+n]) for i in range(0, len(pdf), n)]
+    return " ".join(split)
 
 def clean_tokenize(texto):
     '''
@@ -22,23 +41,23 @@ def clean_tokenize(texto):
     # Cargando nlp para lematizar
     wnl = WordNetLemmatizer()
     # Se convierte todo el texto a minúsculas
-    nuevo_texto = texto.lower()
+    text = texto.lower()
     # Eliminación de páginas web (palabras que empiezan por "http")
-    nuevo_texto = re.sub('http\S+', ' ', nuevo_texto)
+    text = re.sub('http\S+', ' ', text)
     # Eliminación de signos de puntuación
     regex = '[\\!\\"\\#\\$\\%\\&\\\'\\(\\)\\*\\+\\,\\-\\.\\/\\:\\;\\<\\=\\>\\?\\@\\[\\\\\\]\\^_\\`\\{\\|\\}\\~]'
-    nuevo_texto = re.sub(regex , ' ', nuevo_texto)
+    text = re.sub(regex , ' ', text)
     # Eliminación de números
-    nuevo_texto = re.sub("\d+", ' ', nuevo_texto)
+    text = re.sub("\d+", ' ', text)
     # Eliminación de espacios en blanco múltiples
-    nuevo_texto = re.sub("\\s+", ' ', nuevo_texto)
+    text = re.sub("\\s+", ' ', text)
     # Tokenización por palabras individuales
-    #nuevo_texto = nuevo_texto.split(sep = ' ')
-    nuevo_texto = word_tokenize(nuevo_texto)
+    #text = text.split(sep = ' ')
+    text = word_tokenize(text)
     # Eliminación de tokens con una longitud < 2
-    nuevo_texto = [wnl.lemmatize(token) for token in nuevo_texto if len(token) > 1 if not str(token) in stop_words]
+    text = [wnl.lemmatize(token) for token in text if len(token) > 1 if not str(token) in stop_words]
     
-    return(nuevo_texto)
+    return(text)
 
 def get_data(path) -> pd.DataFrame:
     dir_list = [i for i in os.listdir(path)]
