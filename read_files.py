@@ -18,9 +18,12 @@ def get_pdf(file):
     # Eliminación de espacios en blanco múltiples
     text = re.sub("\\s+", ' ', text)
     return text
+def get_txt(file):
+    with open(file) as f:
+        texto = f.read()
+    return texto
 
-
-def pdf_to_spanish(pdf):
+def text_to_eng(pdf):
     traductor = GoogleTranslator(source='es', target='en')
     n=4999 ## solo traduce 5000 caracteres
     split = [traductor.translate(pdf[i:i+n]) for i in range(0, len(pdf), n)]
@@ -59,21 +62,30 @@ def clean_tokenize(texto):
     
     return(text)
 
+
 def get_data(path) -> pd.DataFrame:
-    dir_list = [i for i in os.listdir(path)]
-    x = []
+    dir_list = os.listdir(path)
+    salida = []
     for dir in dir_list:
-        files_dir = [i for i in os.listdir(path+'/'+dir+'/')]
+        print(dir)
+        files_dir = os.listdir(path+dir+"/")
         for file in files_dir:
-            with open(path+'/'+dir+'/'+file,"r") as f:
-                texto = f.read()
-                salida = [texto,dir,file]
-                x.append(salida)
-    df = pd.DataFrame(x,columns = ['document','topic','file'] )
+            if file.endswith(".pdf")==True:
+                print("procesando " + file)
+                texto = get_pdf(path+dir+"/"+file)
+            elif file.endswith(".txt")==True:
+                print("procesando " + file)
+                texto = get_txt(path+dir+"/"+file)
+            if dir == "español":
+                print("..traduciendo")
+                texto = text_to_eng(texto)
+            else: texto 
+            salida.append([texto,dir,file])
+    df = pd.DataFrame(salida,columns = ['document','idioma','file'] )
     df['clean_text'] = df['document'].apply(clean_tokenize)
     return df
 
-    
+
 
 if __name__ == "__main__":
     print("Leyendo, limpiando y preparando data")
