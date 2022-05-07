@@ -80,6 +80,7 @@ def get_data(path) -> pd.DataFrame:
                 print("..traduciendo")
                 texto = text_to_eng(texto)
             else: texto 
+            print("procesado el texto!")
             salida.append([texto,dir,file])
     df = pd.DataFrame(salida,columns = ['document','idioma','file'] )
     df['clean_text'] = df['document'].apply(clean_tokenize)
